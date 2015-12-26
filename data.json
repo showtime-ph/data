@@ -45,9 +45,9 @@
       "id": "pasig",
       "url": "http://www.juice.ph/cinemas"
     },
-    "quezon": {
-      "title": "Quezon",
-      "id": "quezon",
+    "quezon-city": {
+      "title": "Quezon City",
+      "id": "quezon-city",
       "url": "http://www.juice.ph/cinemas"
     },
     "san-juan": {
@@ -173,6 +173,11 @@
     "pangasinan": {
       "title": "Pangasinan",
       "id": "pangasinan",
+      "url": "http://www.juice.ph/cinemas"
+    },
+    "quezon": {
+      "title": "Quezon",
+      "id": "quezon",
       "url": "http://www.juice.ph/cinemas"
     },
     "rizal": {
@@ -434,79 +439,79 @@
     "ali-mall-cineplex": {
       "title": "Ali Mall Cineplex",
       "id": "ali-mall-cineplex",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ali-mall-cineplex"
     },
     "eastwood": {
       "title": "Eastwood",
       "id": "eastwood",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/eastwood-cinema"
     },
     "ever-gotesco-commonwealth": {
       "title": "Ever Gotesco Commonwealth",
       "id": "ever-gotesco-commonwealth",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-commonwealth"
     },
     "fairview-terraces": {
       "title": "Fairview Terraces",
       "id": "fairview-terraces",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-11"
     },
     "fisher-mall": {
       "title": "Fisher Mall",
       "id": "fisher-mall",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/fisher-mall-cinema"
     },
     "gateway-cineplex-10": {
       "title": "Gateway Cineplex 10",
       "id": "gateway-cineplex-10",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/gatewaymall-cineplex-10"
     },
     "robinsons-galleria": {
       "title": "Robinsons Galleria",
       "id": "robinsons-galleria",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-16"
     },
     "robinsons-magnolia": {
       "title": "Robinsons Magnolia",
       "id": "robinsons-magnolia",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-52"
     },
     "sm-fairview": {
       "title": "SM Fairview",
       "id": "sm-fairview",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-fairview"
     },
     "sm-north-edsa": {
       "title": "SM North Edsa",
       "id": "sm-north-edsa",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-5"
     },
     "sm-novaliches": {
       "title": "SM Novaliches",
       "id": "sm-novaliches",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-6"
     },
     "sm-sta-mesa": {
       "title": "SM Sta. Mesa",
       "id": "sm-sta-mesa",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-17"
     },
     "trinoma": {
       "title": "Trinoma",
       "id": "trinoma",
-      "city_id": "quezon",
+      "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-8"
     },
     "greenhills-promenade": {
