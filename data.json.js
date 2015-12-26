@@ -467,9 +467,9 @@ _loaded(
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/fisher-mall-cinema"
     },
-    "gateway-cineplex-10": {
-      "title": "Gateway Cineplex 10",
-      "id": "gateway-cineplex-10",
+    "gateway": {
+      "title": "Gateway",
+      "id": "gateway",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/gatewaymall-cineplex-10"
     },
@@ -2419,10 +2419,10 @@ _loaded(
         "22:00"
       ]
     },
-    "gateway-cineplex-10-cinema-1": {
+    "gateway-cinema-1": {
       "title": "Cinema 1",
-      "id": "gateway-cineplex-10-cinema-1",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-1",
+      "cinema_id": "gateway",
       "movie_id": "walang-forever",
       "showtimes": [
         "11:40",
@@ -2432,10 +2432,10 @@ _loaded(
         "22:00"
       ]
     },
-    "gateway-cineplex-10-cinema-2": {
+    "gateway-cinema-2": {
       "title": "Cinema 2",
-      "id": "gateway-cineplex-10-cinema-2",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-2",
+      "cinema_id": "gateway",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
         "10:50",
@@ -2445,10 +2445,10 @@ _loaded(
         "21:30"
       ]
     },
-    "gateway-cineplex-10-cinema-3": {
+    "gateway-cinema-3": {
       "title": "Cinema 3",
-      "id": "gateway-cineplex-10-cinema-3",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-3",
+      "cinema_id": "gateway",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
         "11:00",
@@ -2458,10 +2458,10 @@ _loaded(
         "21:40"
       ]
     },
-    "gateway-cineplex-10-cinema-4": {
+    "gateway-cinema-4": {
       "title": "Cinema 4",
-      "id": "gateway-cineplex-10-cinema-4",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-4",
+      "cinema_id": "gateway",
       "movie_id": "nilalang",
       "showtimes": [
         "10:50",
@@ -2472,10 +2472,10 @@ _loaded(
         "21:40"
       ]
     },
-    "gateway-cineplex-10-cinema-5": {
+    "gateway-cinema-5": {
       "title": "Cinema 5",
-      "id": "gateway-cineplex-10-cinema-5",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-5",
+      "cinema_id": "gateway",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
         "10:50",
@@ -2486,10 +2486,10 @@ _loaded(
         "22:30"
       ]
     },
-    "gateway-cineplex-10-cinema-6": {
+    "gateway-cinema-6": {
       "title": "Cinema 6",
-      "id": "gateway-cineplex-10-cinema-6",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-6",
+      "cinema_id": "gateway",
       "movie_id": "honor-thy-father",
       "showtimes": [
         "12:45",
@@ -2499,10 +2499,10 @@ _loaded(
         "21:45"
       ]
     },
-    "gateway-cineplex-10-cinema-8": {
+    "gateway-cinema-8": {
       "title": "Cinema 8",
-      "id": "gateway-cineplex-10-cinema-8",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-8",
+      "cinema_id": "gateway",
       "movie_id": "haunted-mansion",
       "showtimes": [
         "12:45",
@@ -2512,10 +2512,10 @@ _loaded(
         "21:45"
       ]
     },
-    "gateway-cineplex-10-cinema-9": {
+    "gateway-cinema-9": {
       "title": "Cinema 9",
-      "id": "gateway-cineplex-10-cinema-9",
-      "cinema_id": "gateway-cineplex-10",
+      "id": "gateway-cinema-9",
+      "cinema_id": "gateway",
       "movie_id": "buy-now-die-later",
       "showtimes": [
         "11:20",
