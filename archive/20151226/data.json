@@ -198,7 +198,7 @@
   },
   "cinemas": {
     "ever-gotesco-manila-plaza": {
-      "title": "Ever Gotesco - Manila Plaza",
+      "title": "Ever Gotesco Manila Plaza",
       "id": "ever-gotesco-manila-plaza",
       "city_id": "manila",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-manila-plaza"
@@ -222,7 +222,7 @@
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-6"
     },
     "robinsons-manila-midtown-mall": {
-      "title": "Robinsons Manila - Midtown Mall",
+      "title": "Robinsons Manila Midtown Mall",
       "id": "robinsons-manila-midtown-mall",
       "city_id": "manila",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-33"
@@ -408,7 +408,7 @@
       "url": "http://www.juice.ph/movies/cinema/newport-entertainment-and-commercial-centre-4"
     },
     "sm-mall-of-asia-imax": {
-      "title": "SM Mall of Asia - IMAX",
+      "title": "SM Mall of Asia IMAX",
       "id": "sm-mall-of-asia-imax",
       "city_id": "pasay",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-imax"
@@ -420,7 +420,7 @@
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-8"
     },
     "ever-gotesco-ortigas": {
-      "title": "Ever Gotesco - Ortigas",
+      "title": "Ever Gotesco Ortigas",
       "id": "ever-gotesco-ortigas",
       "city_id": "pasig",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-ortigas"
@@ -444,7 +444,7 @@
       "url": "http://www.juice.ph/movies/cinema/eastwood-cinema"
     },
     "ever-gotesco-commonwealth": {
-      "title": "Ever Gotesco - Commonwealth",
+      "title": "Ever Gotesco Commonwealth",
       "id": "ever-gotesco-commonwealth",
       "city_id": "quezon",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-commonwealth"
