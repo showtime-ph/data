@@ -1,69 +1,69 @@
 _loaded(
 {
   "cities": {
-    "city-of-manila": {
-      "title": "City of Manila",
-      "id": "city-of-manila",
+    "manila": {
+      "title": "Manila",
+      "id": "manila",
       "url": "http://www.juice.ph/cinemas"
     },
-    "las-pinas-city": {
-      "title": "Las Pinas City",
-      "id": "las-pinas-city",
+    "las-pinas": {
+      "title": "Las Piñas",
+      "id": "las-pinas",
       "url": "http://www.juice.ph/cinemas"
     },
-    "makati-city": {
-      "title": "Makati City",
-      "id": "makati-city",
+    "makati": {
+      "title": "Makati",
+      "id": "makati",
       "url": "http://www.juice.ph/cinemas"
     },
-    "mandaluyong-city": {
-      "title": "Mandaluyong City",
-      "id": "mandaluyong-city",
+    "mandaluyong": {
+      "title": "Mandaluyong",
+      "id": "mandaluyong",
       "url": "http://www.juice.ph/cinemas"
     },
-    "marikina-city": {
-      "title": "Marikina City",
-      "id": "marikina-city",
+    "marikina": {
+      "title": "Marikina",
+      "id": "marikina",
       "url": "http://www.juice.ph/cinemas"
     },
-    "muntinlupa-city": {
-      "title": "Muntinlupa City",
-      "id": "muntinlupa-city",
+    "muntinlupa": {
+      "title": "Muntinlupa",
+      "id": "muntinlupa",
       "url": "http://www.juice.ph/cinemas"
     },
-    "paranaque-city": {
-      "title": "Paranaque City",
-      "id": "paranaque-city",
+    "paranaque": {
+      "title": "Paranaque",
+      "id": "paranaque",
       "url": "http://www.juice.ph/cinemas"
     },
-    "pasay-city": {
-      "title": "Pasay City",
-      "id": "pasay-city",
+    "pasay": {
+      "title": "Pasay",
+      "id": "pasay",
       "url": "http://www.juice.ph/cinemas"
     },
-    "pasig-city": {
-      "title": "Pasig City",
-      "id": "pasig-city",
+    "pasig": {
+      "title": "Pasig",
+      "id": "pasig",
       "url": "http://www.juice.ph/cinemas"
     },
-    "quezon-city": {
-      "title": "Quezon City",
-      "id": "quezon-city",
+    "quezon": {
+      "title": "Quezon",
+      "id": "quezon",
       "url": "http://www.juice.ph/cinemas"
     },
-    "san-juan-city": {
-      "title": "San Juan City",
-      "id": "san-juan-city",
+    "san-juan": {
+      "title": "San Juan",
+      "id": "san-juan",
       "url": "http://www.juice.ph/cinemas"
     },
-    "taguig-city": {
-      "title": "Taguig City",
-      "id": "taguig-city",
+    "taguig": {
+      "title": "Taguig",
+      "id": "taguig",
       "url": "http://www.juice.ph/cinemas"
     },
-    "valenzuela-city": {
-      "title": "Valenzuela City",
-      "id": "valenzuela-city",
+    "valenzuela": {
+      "title": "Valenzuela",
+      "id": "valenzuela",
       "url": "http://www.juice.ph/cinemas"
     },
     "agusan-del-norte": {
@@ -161,9 +161,9 @@ _loaded(
       "id": "negros-oriental",
       "url": "http://www.juice.ph/cinemas"
     },
-    "palawan-city": {
-      "title": "Palawan City",
-      "id": "palawan-city",
+    "palawan": {
+      "title": "Palawan",
+      "id": "palawan",
       "url": "http://www.juice.ph/cinemas"
     },
     "pampanga": {
@@ -174,11 +174,6 @@ _loaded(
     "pangasinan": {
       "title": "Pangasinan",
       "id": "pangasinan",
-      "url": "http://www.juice.ph/cinemas"
-    },
-    "quezon": {
-      "title": "Quezon",
-      "id": "quezon",
       "url": "http://www.juice.ph/cinemas"
     },
     "rizal": {
@@ -204,115 +199,115 @@ _loaded(
   },
   "cinemas": {
     "ever-gotesco-cinema-manila-plaza": {
-      "title": "Ever Gotesco Cinema - Manila Plaza",
+      "title": "Ever Gotesco - Manila Plaza",
       "id": "ever-gotesco-cinema-manila-plaza",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-manila-plaza"
     },
     "isetann-cinerama": {
-      "title": "Isetann Cinerama",
+      "title": "Isetann",
       "id": "isetann-cinerama",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/cineworld-cinerama-incorporated"
     },
     "lucky-chinatown-cinemas": {
-      "title": "Lucky Chinatown Cinemas",
+      "title": "Lucky Chinatown",
       "id": "lucky-chinatown-cinemas",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/lucky-chinatown-cinemas"
     },
     "robinsons-movieworld-manila": {
-      "title": " Robinsons Movieworld Manila",
+      "title": "Robinsons Manila",
       "id": "robinsons-movieworld-manila",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-6"
     },
     "robinsons-movieworld-manila-midtown-mall": {
-      "title": "Robinsons Movieworld Manila - Midtown Mall",
+      "title": "Robinsons Manila - Midtown Mall",
       "id": "robinsons-movieworld-manila-midtown-mall",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-33"
     },
     "sm-city-manila-cinema": {
-      "title": "SM City Manila Cinema",
+      "title": "SM Manila",
       "id": "sm-city-manila-cinema",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-20"
     },
     "sm-city-san-lazaro-cinema": {
-      "title": "SM City San Lazaro Cinema",
+      "title": "SM San Lazaro",
       "id": "sm-city-san-lazaro-cinema",
       "city_id": "city-of-manila",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-6"
     },
     "robinsons-movieworld-las-pinas": {
-      "title": "Robinsons Movieworld Las Pinas",
+      "title": "Robinsons Las Pinas",
       "id": "robinsons-movieworld-las-pinas",
       "city_id": "las-pinas-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-62"
     },
     "sm-city-southmall-cinema": {
-      "title": "SM City Southmall Cinema",
+      "title": "SM Southmall",
       "id": "sm-city-southmall-cinema",
       "city_id": "las-pinas-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-21"
     },
     "star-mall-las-pinas-cinemas": {
-      "title": "Star Mall Las Pinas Cinemas",
+      "title": "Star Mall Las Pinas",
       "id": "star-mall-las-pinas-cinemas",
       "city_id": "las-pinas-city",
       "url": "http://www.juice.ph/movies/cinema/star-mall-las-pinas"
     },
     "cash-and-carry-cinema": {
-      "title": "Cash and Carry Cinema",
+      "title": "Cash and Carry",
       "id": "cash-and-carry-cinema",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/adebe-realty-company-incorporated"
     },
     "century-city-mall-cinema": {
-      "title": "Century City Mall Cinema",
+      "title": "Century City Mall",
       "id": "century-city-mall-cinema",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/century-city-mall-cinema"
     },
     "glorietta-4-cinemas": {
-      "title": "Glorietta 4 Cinemas",
+      "title": "Glorietta 4",
       "id": "glorietta-4-cinemas",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-5"
     },
     "greenbelt-1-cinemas": {
-      "title": "Greenbelt 1 Cinemas",
+      "title": "Greenbelt 1",
       "id": "greenbelt-1-cinemas",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-3"
     },
     "greenbelt-3-cinemas": {
-      "title": "Greenbelt 3 Cinemas",
+      "title": "Greenbelt 3",
       "id": "greenbelt-3-cinemas",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-2"
     },
     "power-plant-mall-cinemas": {
-      "title": "Power Plant Mall Cinemas",
+      "title": "Power Plant Mall",
       "id": "power-plant-mall-cinemas",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/power-plant-cinema"
     },
     "waltermart-makati-cinema": {
-      "title": "Waltermart Makati Cinema",
+      "title": "Waltermart Makati",
       "id": "waltermart-makati-cinema",
       "city_id": "makati-city",
       "url": "http://www.juice.ph/movies/cinema/waltermart-makati-c2000"
     },
     "market-place-cinema": {
-      "title": "Market Place Cinema",
+      "title": "Market Place",
       "id": "market-place-cinema",
       "city_id": "mandaluyong-city",
       "url": "http://www.juice.ph/movies/cinema/market-place-cinema-incorporated"
     },
     "robinsons-movieworld-forum": {
-      "title": "Robinsons Movieworld Forum",
+      "title": "Robinsons Forum",
       "id": "robinsons-movieworld-forum",
       "city_id": "mandaluyong-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-18"
@@ -324,115 +319,115 @@ _loaded(
       "url": "http://www.juice.ph/movies/cinema/shang-cineplex"
     },
     "sm-light-cinema": {
-      "title": "SM Light Cinema",
+      "title": "SM Light",
       "id": "sm-light-cinema",
       "city_id": "mandaluyong-city",
       "url": "http://www.juice.ph/movies/cinema/sm-light-mall-cinema"
     },
     "sm-megamall-cinema": {
-      "title": "SM Megamall Cinema",
+      "title": "SM Megamall",
       "id": "sm-megamall-cinema",
       "city_id": "mandaluyong-city",
       "url": "http://www.juice.ph/movies/cinema/first-asia-realty-development-incorporated"
     },
     "star-mall-edsa-shaw-cinemas": {
-      "title": "Star Mall Edsa-Shaw Cinemas",
+      "title": "Star Mall Edsa-Shaw",
       "id": "star-mall-edsa-shaw-cinemas",
       "city_id": "mandaluyong-city",
       "url": "http://www.juice.ph/movies/cinema/star-mall-edsa-shaw-boulevard"
     },
     "the-podium-cinema": {
-      "title": "The Podium Cinema",
+      "title": "The Podium",
       "id": "the-podium-cinema",
       "city_id": "mandaluyong-city",
       "url": "http://www.juice.ph/movies/cinema/sm-keppel-land-incorporated"
     },
     "blue-wave-cinema": {
-      "title": "Blue Wave Cinema",
+      "title": "Blue Wave",
       "id": "blue-wave-cinema",
       "city_id": "marikina-city",
       "url": "http://www.juice.ph/movies/cinema/blue-wave-cinema-corporation"
     },
     "sm-city-marikina-cinema": {
-      "title": "SM City Marikina Cinema",
+      "title": "SM Marikina",
       "id": "sm-city-marikina-cinema",
       "city_id": "marikina-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-39"
     },
     "alabang-town-center-cinemas": {
-      "title": "Alabang Town Center Cinemas",
+      "title": "Alabang Town Center",
       "id": "alabang-town-center-cinemas",
       "city_id": "muntinlupa-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-6"
     },
     "commercenter-cinemas": {
-      "title": "Commercenter Cinemas",
+      "title": "Commercenter",
       "id": "commercenter-cinemas",
       "city_id": "muntinlupa-city",
       "url": "http://www.juice.ph/movies/cinema/commercenter-cinemas"
     },
     "festival-cinema": {
-      "title": "Festival Cinema",
+      "title": "Festival",
       "id": "festival-cinema",
       "city_id": "muntinlupa-city",
       "url": "http://www.juice.ph/movies/cinema/festival-cinema"
     },
     "sm-center-muntinlupa-cinema": {
-      "title": "SM Center Muntinlupa Cinema",
+      "title": "SM Center Muntinlupa",
       "id": "sm-center-muntinlupa-cinema",
       "city_id": "muntinlupa-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-30"
     },
     "star-mall-alabang-cinemas": {
-      "title": "Star Mall Alabang Cinemas",
+      "title": "Star Mall Alabang",
       "id": "star-mall-alabang-cinemas",
       "city_id": "muntinlupa-city",
       "url": "http://www.juice.ph/movies/cinema/star-mall-alabang"
     },
     "sm-city-bf-paranaque-cinema": {
-      "title": "SM City BF Paranaque Cinema",
+      "title": "SM BF Paranaque",
       "id": "sm-city-bf-paranaque-cinema",
       "city_id": "paranaque-city",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-12"
     },
     "sm-city-bicutan-cinema": {
-      "title": "SM City Bicutan Cinema",
+      "title": "SM Bicutan",
       "id": "sm-city-bicutan-cinema",
       "city_id": "paranaque-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-16"
     },
     "sm-city-sucat-cinema": {
-      "title": "SM City Sucat Cinema",
+      "title": "SM Sucat",
       "id": "sm-city-sucat-cinema",
       "city_id": "paranaque-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-18"
     },
     "newport-cinemas-resorts-world-manila": {
-      "title": "Newport Cinemas (Resorts World Manila)",
+      "title": "Newport (Resorts World Manila)",
       "id": "newport-cinemas-resorts-world-manila",
       "city_id": "pasay-city",
       "url": "http://www.juice.ph/movies/cinema/newport-entertainment-and-commercial-centre-4"
     },
     "san-miguel-coca-cola-imax-theater-mall-of-asia": {
-      "title": "San Miguel Coca Cola Imax Theater - Mall of Asia",
+      "title": "SM Mall of Asia - IMAX",
       "id": "san-miguel-coca-cola-imax-theater-mall-of-asia",
       "city_id": "pasay-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-imax"
     },
     "sm-mall-of-asia-cinema": {
-      "title": "SM Mall of Asia Cinema",
+      "title": "SM Mall of Asia",
       "id": "sm-mall-of-asia-cinema",
       "city_id": "pasay-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-8"
     },
     "ever-gotesco-cinema-ortigas": {
-      "title": "Ever Gotesco Cinema - Ortigas",
+      "title": "Ever Gotesco - Ortigas",
       "id": "ever-gotesco-cinema-ortigas",
       "city_id": "pasig-city",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-ortigas"
     },
     "robinsons-movieworld-metro-east": {
-      "title": "Robinsons Movieworld Metro East",
+      "title": "Robinsons Metro East",
       "id": "robinsons-movieworld-metro-east",
       "city_id": "pasig-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-14"
@@ -444,25 +439,25 @@ _loaded(
       "url": "http://www.juice.ph/movies/cinema/ali-mall-cineplex"
     },
     "eastwood-cinemas": {
-      "title": "Eastwood Cinemas",
+      "title": "Eastwood",
       "id": "eastwood-cinemas",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/eastwood-cinema"
     },
     "ever-gotesco-cinema-commonwealth": {
-      "title": "Ever Gotesco Cinema - Commonwealth",
+      "title": "Ever Gotesco - Commonwealth",
       "id": "ever-gotesco-cinema-commonwealth",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ever-gotesco-cinema-commonwealth"
     },
     "fairview-terraces-cinemas": {
-      "title": "Fairview Terraces Cinemas",
+      "title": "Fairview Terraces",
       "id": "fairview-terraces-cinemas",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-11"
     },
     "fisher-mall-cinema": {
-      "title": "Fisher Mall Cinema",
+      "title": "Fisher Mall",
       "id": "fisher-mall-cinema",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/fisher-mall-cinema"
@@ -474,469 +469,469 @@ _loaded(
       "url": "http://www.juice.ph/movies/cinema/gatewaymall-cineplex-10"
     },
     "robinsons-movieworld-galleria": {
-      "title": "Robinsons Movieworld Galleria",
+      "title": "Robinsons Galleria",
       "id": "robinsons-movieworld-galleria",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-16"
     },
     "robinsons-movieworld-magnolia": {
-      "title": "Robinsons Movieworld Magnolia",
+      "title": "Robinsons Magnolia",
       "id": "robinsons-movieworld-magnolia",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-52"
     },
     "sm-city-fairview-cinema": {
-      "title": "SM City Fairview Cinema",
+      "title": "SM Fairview",
       "id": "sm-city-fairview-cinema",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-fairview"
     },
     "sm-city-north-edsa-cinema": {
-      "title": "SM City North Edsa Cinema",
+      "title": "SM North Edsa",
       "id": "sm-city-north-edsa-cinema",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-5"
     },
     "sm-city-novaliches-cinema": {
-      "title": "SM City Novaliches Cinema",
+      "title": "SM Novaliches",
       "id": "sm-city-novaliches-cinema",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-6"
     },
     "sm-city-sta-mesa-cinema": {
-      "title": "SM City Sta. Mesa Cinema",
+      "title": "SM Sta. Mesa",
       "id": "sm-city-sta-mesa-cinema",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-17"
     },
     "trinoma-cinemas": {
-      "title": "Trinoma Cinemas",
+      "title": "Trinoma",
       "id": "trinoma-cinemas",
       "city_id": "quezon-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-8"
     },
     "greenhills-promenade-cinema": {
-      "title": "Greenhills Promenade Cinema",
+      "title": "Greenhills Promenade",
       "id": "greenhills-promenade-cinema",
       "city_id": "san-juan-city",
       "url": "http://www.juice.ph/movies/cinema/greenhills-cinema-promenade"
     },
     "greenhills-theater-mall-cinema": {
-      "title": "Greenhills Theater Mall Cinema",
+      "title": "Greenhills Theater Mall",
       "id": "greenhills-theater-mall-cinema",
       "city_id": "san-juan-city",
       "url": "http://www.juice.ph/movies/cinema/greenhills-theater-mall"
     },
     "bonifacio-high-street-cinemas": {
-      "title": "Bonifacio High Street Cinemas",
+      "title": "Bonifacio High Street",
       "id": "bonifacio-high-street-cinemas",
       "city_id": "taguig-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-12"
     },
     "market-market-cinemas": {
-      "title": "Market! Market! Cinemas",
+      "title": "Market! Market!",
       "id": "market-market-cinemas",
       "city_id": "taguig-city",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-7"
     },
     "sm-aura-premier-cinema": {
-      "title": "SM Aura Premier Cinema",
+      "title": "SM Aura Premier",
       "id": "sm-aura-premier-cinema",
       "city_id": "taguig-city",
       "url": "http://www.juice.ph/movies/cinema/sm-aura-premier-cinema"
     },
     "sm-center-valenzuela-cinema": {
-      "title": "SM Center Valenzuela Cinema",
+      "title": "SM Center Valenzuela",
       "id": "sm-center-valenzuela-cinema",
       "city_id": "valenzuela-city",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-7"
     },
     "robinsons-movieworld-butuan": {
-      "title": "Robinsons Movieworld Butuan",
+      "title": "Robinsons Butuan",
       "id": "robinsons-movieworld-butuan",
       "city_id": "agusan-del-norte",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-58"
     },
     "bichara-silverscreens-cinema": {
-      "title": "Bichara Silverscreens Cinema",
+      "title": "Bichara Silverscreens",
       "id": "bichara-silverscreens-cinema",
       "city_id": "albay",
       "url": "http://www.juice.ph/movies/cinema/bichara-silverscreens"
     },
     "pacific-mall-legazpi-cinema": {
-      "title": "Pacific Mall Legazpi Cinema",
+      "title": "Pacific Mall Legazpi",
       "id": "pacific-mall-legazpi-cinema",
       "city_id": "albay",
       "url": "http://www.juice.ph/movies/cinema/pacific-mall-legazpi-cinema"
     },
     "sm-city-batangas-cinema": {
-      "title": "SM City Batangas Cinema",
+      "title": "SM Batangas",
       "id": "sm-city-batangas-cinema",
       "city_id": "batangas",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-19"
     },
     "robinsons-movieworld-lipa": {
-      "title": "Robinsons Movieworld Lipa",
+      "title": "Robinsons Lipa",
       "id": "robinsons-movieworld-lipa",
       "city_id": "batangas",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-20"
     },
     "sm-city-lipa-cinema": {
-      "title": "SM City Lipa Cinema",
+      "title": "SM Lipa",
       "id": "sm-city-lipa-cinema",
       "city_id": "batangas",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-3"
     },
     "sm-city-baguio-cinema": {
-      "title": "SM City Baguio Cinema",
+      "title": "SM Baguio",
       "id": "sm-city-baguio-cinema",
       "city_id": "benguet",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-baguio"
     },
     "sm-city-baliwag-cinema": {
-      "title": "SM City Baliwag Cinema",
+      "title": "SM Baliwag",
       "id": "sm-city-baliwag-cinema",
       "city_id": "bulacan",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-43"
     },
     "robinsons-movieworld-malolos": {
-      "title": "Robinsons Movieworld Malolos",
+      "title": "Robinsons Malolos",
       "id": "robinsons-movieworld-malolos",
       "city_id": "bulacan",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-57"
     },
     "sm-city-marilao-cinema": {
-      "title": "SM City Marilao Cinema",
+      "title": "SM Marilao",
       "id": "sm-city-marilao-cinema",
       "city_id": "bulacan",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-marilao"
     },
     "star-mall-san-jose-del-monte-cinemas": {
-      "title": "Star Mall San Jose del Monte Cinemas",
+      "title": "Star Mall San Jose del Monte",
       "id": "star-mall-san-jose-del-monte-cinemas",
       "city_id": "bulacan",
       "url": "http://www.juice.ph/movies/cinema/star-mall-san-jose-del-monte"
     },
     "sm-city-naga-cinema": {
-      "title": "SM City Naga Cinema",
+      "title": "SM Naga",
       "id": "sm-city-naga-cinema",
       "city_id": "camarines-sur",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-10"
     },
     "robinsons-movieworld-roxas": {
-      "title": "Robinsons Movieworld Roxas",
+      "title": "Robinsons Roxas",
       "id": "robinsons-movieworld-roxas",
       "city_id": "capiz",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-59"
     },
     "sm-city-bacoor-cinema": {
-      "title": "SM City Bacoor Cinema",
+      "title": "SM Bacoor",
       "id": "sm-city-bacoor-cinema",
       "city_id": "cavite",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-bacoor"
     },
     "sm-center-molino-cinema": {
-      "title": "SM Center Molino Cinema",
+      "title": "SM Center Molino",
       "id": "sm-center-molino-cinema",
       "city_id": "cavite",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-2"
     },
     "robinsons-movieworld-dasmarinas": {
-      "title": "Robinsons Movieworld Dasmarinas",
+      "title": "Robinsons Dasmarinas",
       "id": "robinsons-movieworld-dasmarinas",
       "city_id": "cavite",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-5"
     },
     "sm-city-dasmarinas-cinema": {
-      "title": "SM City Dasmarinas Cinema",
+      "title": "SM Dasmarinas",
       "id": "sm-city-dasmarinas-cinema",
       "city_id": "cavite",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-dasmarinas"
     },
     "robinsons-movieworld-imus": {
-      "title": "Robinsons Movieworld Imus",
+      "title": "Robinsons Imus",
       "id": "robinsons-movieworld-imus",
       "city_id": "cavite",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-21"
     },
     "sm-city-rosario-cinema": {
-      "title": "SM City Rosario Cinema",
+      "title": "SM Rosario",
       "id": "sm-city-rosario-cinema",
       "city_id": "cavite",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-4"
     },
     "ayala-center-cebu-cinemas": {
-      "title": "Ayala Center Cebu Cinemas",
+      "title": "Ayala Center Cebu",
       "id": "ayala-center-cebu-cinemas",
       "city_id": "cebu",
       "url": "http://www.juice.ph/movies/cinema/ayala-center-cebu-cinemas"
     },
     "sm-city-cebu-cinema": {
-      "title": "SM City Cebu Cinema",
+      "title": "SM Cebu",
       "id": "sm-city-cebu-cinema",
       "city_id": "cebu",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-cebu"
     },
     "sm-city-consolacion-cinema": {
-      "title": "SM City Consolacion Cinema",
+      "title": "SM Consolacion",
       "id": "sm-city-consolacion-cinema",
       "city_id": "cebu",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-10"
     },
     "gaisano-mall-tagum-cinema": {
-      "title": "Gaisano Mall Tagum Cinema",
+      "title": "Gaisano Mall Tagum",
       "id": "gaisano-mall-tagum-cinema",
       "city_id": "davao-del-norte",
       "url": "http://www.juice.ph/movies/cinema/gaisano-mall-tagum"
     },
     "abreeza-mall-cinemas": {
-      "title": "Abreeza Mall Cinemas",
+      "title": "Abreeza Mall",
       "id": "abreeza-mall-cinemas",
       "city_id": "davao-del-sur",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-9"
     },
     "gaisano-mall-davao-cinema": {
-      "title": "Gaisano Mall Davao Cinema",
+      "title": "Gaisano Mall Davao",
       "id": "gaisano-mall-davao-cinema",
       "city_id": "davao-del-sur",
       "url": "http://www.juice.ph/movies/cinema/gaisano-mall-davao"
     },
     "gaisano-mall-of-toril-cinema": {
-      "title": "Gaisano Mall Of Toril Cinema",
+      "title": "Gaisano Mall Of Toril",
       "id": "gaisano-mall-of-toril-cinema",
       "city_id": "davao-del-sur",
       "url": "http://www.juice.ph/movies/cinema/gaisano-mall-of-toril"
     },
     "nccc-mall-cinema": {
-      "title": "NCCC Mall Cinema",
+      "title": "NCCC Mall",
       "id": "nccc-mall-cinema",
       "city_id": "davao-del-sur",
       "url": "http://www.juice.ph/movies/cinema/nccc-mall-cinema"
     },
     "sm-city-davao-cinema": {
-      "title": "SM City Davao Cinema",
+      "title": "SM Davao",
       "id": "sm-city-davao-cinema",
       "city_id": "davao-del-sur",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-davao"
     },
     "sm-lanang-premier-cinema": {
-      "title": "SM Lanang Premier Cinema",
+      "title": "SM Lanang Premier",
       "id": "sm-lanang-premier-cinema",
       "city_id": "davao-del-sur",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-13"
     },
     "robinsons-movieworld-ilocos-norte": {
-      "title": "Robinsons Movieworld Ilocos Norte",
+      "title": "Robinsons Ilocos Norte",
       "id": "robinsons-movieworld-ilocos-norte",
       "city_id": "ilocos-norte",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-48"
     },
     "robinsons-movieworld-iloilo": {
-      "title": "Robinsons Movieworld Iloilo",
+      "title": "Robinsons Iloilo",
       "id": "robinsons-movieworld-iloilo",
       "city_id": "iloilo",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-15"
     },
     "sm-city-iloilo-cinema": {
-      "title": "SM City Iloilo Cinema",
+      "title": "SM Iloilo",
       "id": "sm-city-iloilo-cinema",
       "city_id": "iloilo",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-iloilo"
     },
     "sm-city-cauayan-cinema": {
-      "title": "SM City Cauayan Cinema",
+      "title": "SM Cauayan",
       "id": "sm-city-cauayan-cinema",
       "city_id": "isabela",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-17"
     },
     "robinsons-movieworld-santiago": {
-      "title": "Robinsons Movieworld Santiago",
+      "title": "Robinsons Santiago",
       "id": "robinsons-movieworld-santiago",
       "city_id": "isabela",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-60"
     },
     "sm-city-calamba-cinema": {
-      "title": "SM City Calamba Cinema",
+      "title": "SM Calamba",
       "id": "sm-city-calamba-cinema",
       "city_id": "laguna",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-8"
     },
     "sm-city-san-pablo-cinema": {
-      "title": "SM City San Pablo Cinema",
+      "title": "SM San Pablo",
       "id": "sm-city-san-pablo-cinema",
       "city_id": "laguna",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-9"
     },
     "robinsons-movieworld-sta-rosa": {
-      "title": "Robinsons Movieworld Sta. Rosa",
+      "title": "Robinsons Sta. Rosa",
       "id": "robinsons-movieworld-sta-rosa",
       "city_id": "laguna",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-7"
     },
     "sm-city-sta-rosa-cinema": {
-      "title": "SM City Sta. Rosa Cinema",
+      "title": "SM Sta. Rosa",
       "id": "sm-city-sta-rosa-cinema",
       "city_id": "laguna",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holding-incorporated-cinema"
     },
     "robinsons-movieworld-tacloban": {
-      "title": "Robinsons Movieworld Tacloban",
+      "title": "Robinsons Tacloban",
       "id": "robinsons-movieworld-tacloban",
       "city_id": "leyte",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-49"
     },
     "centrio-mall-cinemas": {
-      "title": "Centrio Mall Cinemas",
+      "title": "Centrio Mall",
       "id": "centrio-mall-cinemas",
       "city_id": "misamis-oriental",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-10"
     },
     "sm-city-cagayan-de-oro-cinema": {
-      "title": "SM City Cagayan De Oro Cinema",
+      "title": "SM Cagayan De Oro",
       "id": "sm-city-cagayan-de-oro-cinema",
       "city_id": "misamis-oriental",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-cagayan-de-oro"
     },
     "robinsons-movieworld-bacolod": {
-      "title": "Robinsons Movieworld Bacolod",
+      "title": "Robinsons Bacolod",
       "id": "robinsons-movieworld-bacolod",
       "city_id": "negros-occidental",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-9"
     },
     "sm-city-bacolod-cinema": {
-      "title": "SM City Bacolod Cinema",
+      "title": "SM Bacolod",
       "id": "sm-city-bacolod-cinema",
       "city_id": "negros-occidental",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-41"
     },
     "robinsons-movieworld-dumaguete": {
-      "title": "Robinsons Movieworld Dumaguete",
+      "title": "Robinsons Dumaguete",
       "id": "robinsons-movieworld-dumaguete",
       "city_id": "negros-oriental",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-50"
     },
     "robinsons-movieworld-palawan": {
-      "title": "Robinsons Movieworld Palawan",
+      "title": "Robinsons Palawan",
       "id": "robinsons-movieworld-palawan",
       "city_id": "palawan-city",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-46"
     },
     "marquee-mall-cinemas": {
-      "title": "Marquee Mall Cinemas",
+      "title": "Marquee Mall",
       "id": "marquee-mall-cinemas",
       "city_id": "pampanga",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated-4"
     },
     "robinsons-movieworld-angeles": {
-      "title": "Robinsons Movieworld Angeles",
+      "title": "Robinsons Angeles",
       "id": "robinsons-movieworld-angeles",
       "city_id": "pampanga",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-4"
     },
     "sm-city-clark-cinema": {
-      "title": "SM City Clark Cinema",
+      "title": "SM Clark",
       "id": "sm-city-clark-cinema",
       "city_id": "pampanga",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-5"
     },
     "robinsons-movieworld-starmills": {
-      "title": "Robinsons Movieworld Starmills",
+      "title": "Robinsons Starmills",
       "id": "robinsons-movieworld-starmills",
       "city_id": "pampanga",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-8"
     },
     "sm-city-pampanga-cinema": {
-      "title": "SM City Pampanga Cinema",
+      "title": "SM Pampanga",
       "id": "sm-city-pampanga-cinema",
       "city_id": "pampanga",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-pampanga"
     },
     "sm-city-san-fernando-downtown-cinema": {
-      "title": "SM City San Fernando Downtown Cinema",
+      "title": "SM San Fernando Downtown",
       "id": "sm-city-san-fernando-downtown-cinema",
       "city_id": "pampanga",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-14"
     },
     "robinsons-movieworld-pangasinan": {
-      "title": "Robinsons Movieworld Pangasinan",
+      "title": "Robinsons Pangasinan",
       "id": "robinsons-movieworld-pangasinan",
       "city_id": "pangasinan",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-47"
     },
     "sm-city-rosales-cinema": {
-      "title": "SM City Rosales Cinema",
+      "title": "SM Rosales",
       "id": "sm-city-rosales-cinema",
       "city_id": "pangasinan",
       "url": "http://www.juice.ph/movies/cinema/sm-prime-holdings-incorporated-45"
     },
     "sm-city-lucena-cinema": {
-      "title": "SM City Lucena Cinema",
+      "title": "SM Lucena",
       "id": "sm-city-lucena-cinema",
       "city_id": "quezon",
       "url": "http://www.juice.ph/movies/cinema/sm-cinema-lucena"
     },
     "robinsons-movieworld-antipolo": {
-      "title": "Robinsons Movieworld Antipolo",
+      "title": "Robinsons Antipolo",
       "id": "robinsons-movieworld-antipolo",
       "city_id": "rizal",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-61"
     },
     "sm-city-masinag-cinema": {
-      "title": "SM City Masinag Cinema",
+      "title": "SM Masinag",
       "id": "sm-city-masinag-cinema",
       "city_id": "rizal",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-7"
     },
     "sta-lucia-east-grandmall-cinema": {
-      "title": "Sta. Lucia East Grandmall Cinema",
+      "title": "Sta. Lucia East Grandmall",
       "id": "sta-lucia-east-grandmall-cinema",
       "city_id": "rizal",
       "url": "http://www.juice.ph/movies/cinema/sta-lucia-east-grandmall-cinema"
     },
     "sm-city-taytay-cinema": {
-      "title": "SM City Taytay Cinema",
+      "title": "SM Taytay",
       "id": "sm-city-taytay-cinema",
       "city_id": "rizal",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc"
     },
     "robinsons-movieworld-gensan": {
-      "title": "Robinsons Movieworld Gensan",
+      "title": "Robinsons Gensan",
       "id": "robinsons-movieworld-gensan",
       "city_id": "south-cotabato",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-51"
     },
     "sm-city-general-santos-cinema": {
-      "title": "SM City General Santos Cinema",
+      "title": "SM General Santos",
       "id": "sm-city-general-santos-cinema",
       "city_id": "south-cotabato",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-15"
     },
     "kcc-mall-of-gensan-cinema": {
-      "title": "KCC Mall Of Gensan Cinema",
+      "title": "KCC Mall Of Gensan",
       "id": "kcc-mall-of-gensan-cinema",
       "city_id": "south-cotabato",
       "url": "http://www.juice.ph/movies/cinema/kcc-property-holdings-incorporated"
     },
     "kcc-mall-of-marbel-cinema": {
-      "title": "KCC Mall Of Marbel Cinema",
+      "title": "KCC Mall Of Marbel",
       "id": "kcc-mall-of-marbel-cinema",
       "city_id": "south-cotabato",
       "url": "http://www.juice.ph/movies/cinema/kcc-property-holdings-incorporated-2"
     },
     "sm-city-tarlac-cinema": {
-      "title": "SM City Tarlac Cinema",
+      "title": "SM Tarlac",
       "id": "sm-city-tarlac-cinema",
       "city_id": "tarlac",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-16"
     },
     "harbor-point-cinemas": {
-      "title": "Harbor Point Cinemas",
+      "title": "Harbor Point",
       "id": "harbor-point-cinemas",
       "city_id": "zambales",
       "url": "http://www.juice.ph/movies/cinema/ayala-theaters-management-incorporated"
     },
     "sm-city-olongapo-cinema": {
-      "title": "SM City Olongapo Cinema",
+      "title": "SM Olongapo",
       "id": "sm-city-olongapo-cinema",
       "city_id": "zambales",
       "url": "http://www.juice.ph/movies/cinema/west-avenue-theaters-corporation-watc-11"
