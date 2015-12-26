@@ -1118,6 +1118,7 @@ _loaded(
       "title": "Beauty and the Bestie",
       "id": "beauty-and-the-bestie",
       "url": "http://www.juice.ph/movies/movie/beauty-and-the-bestie",
+      "showing": true,
       "themoviedb_id": "373564",
       "overview": "For an important case, a policeman needs the help of his former best friend to impersonate the daughter of a foreign dignitary in a beauty pageant.",
       "release_date": "2015-12-25",
@@ -1131,6 +1132,7 @@ _loaded(
       "title": "Buy Now, Die Later",
       "id": "buy-now-die-later",
       "url": "http://www.juice.ph/movies/movie/buy-now-die-later",
+      "showing": true,
       "themoviedb_id": "373778",
       "overview": "Story about five people who wanted something so badly that they’ll do anything, even to deal with the devil. As they finally get what they want, no one has mentioned that their dream will cost them their lives.",
       "release_date": "2015-12-25",
@@ -1144,6 +1146,7 @@ _loaded(
       "title": "Haunted Mansion",
       "id": "haunted-mansion",
       "url": "http://www.juice.ph/movies/movie/haunted-mansion",
+      "showing": true,
       "themoviedb_id": "374023",
       "overview": "A group of high school students who are spending the night in a old mansion. When they learn that the house is haunted they set to look out for ghosts just for fun , but they find out soon enough that the urban legends are real.",
       "release_date": "2015-12-25",
@@ -1157,6 +1160,7 @@ _loaded(
       "title": "Honor Thy Father",
       "id": "honor-thy-father",
       "url": "http://www.juice.ph/movies/movie/honor-thy-father",
+      "showing": true,
       "imdb_id": "tt4498800",
       "themoviedb_id": "358906",
       "overview": "A pair of married white-collar swindlers run afoul of their latest victims.",
@@ -1171,6 +1175,7 @@ _loaded(
       "title": "My Bebe Love #KiligPaMore",
       "id": "my-bebe-love-kilig-pa-more",
       "url": "http://www.juice.ph/movies/movie/my-bebe-love-kiligpamore",
+      "showing": true,
       "themoviedb_id": "373907",
       "overview": "Dondi is a nerd and an obedient nephew to his aunt Cora who makes decisions for him. Meanwhile, Anna is a stubborn and rebellious girl who seeks the attention of her father Vito. Dondi and Anna cross path and their different personalities collide. They eventually fall in love with each other and solve their own problems. Vito and Cora are bitter business competitors and because of their rivalry, they disapproved the romantic relationship between Dondi and Anna.",
       "release_date": "2015-12-25",
@@ -1184,6 +1189,7 @@ _loaded(
       "title": "Nilalang",
       "id": "nilalang",
       "url": "http://www.juice.ph/movies/movie/nilalang",
+      "showing": true,
       "themoviedb_id": "373786",
       "overview": "Nilalang tackles the underbelly of corrupt Philippine cops with the Japanese 'Yakuza' and its links to a centuries’ old curse that may be responsible for the spate of serial killings happening in Manila.",
       "release_date": "2015-12-25",
@@ -1197,6 +1203,7 @@ _loaded(
       "title": "Walang Forever",
       "id": "walang-forever",
       "url": "http://www.juice.ph/movies/movie/walang-forever",
+      "showing": true,
       "themoviedb_id": "373784",
       "overview": "Mia, a celebrated writer of romantic-comedy films, is at a turning point in her life which makes it difficult for her to believe that love could last. Everything comes to a head when Ethan returns, only for her to find out that he has become a cynic of lasting love because she broke his heart.",
       "release_date": "2015-12-25",
@@ -1210,6 +1217,7 @@ _loaded(
       "title": "All You Need is Pag-ibig",
       "id": "all-you-need-is-pag-ibig",
       "url": "http://www.juice.ph/movies/movie/all-you-need-is-pag-ibig",
+      "showing": true,
       "themoviedb_id": "374020",
       "overview": "The movie features varied forms of love: family love, sibling love, puppy love, unrequited love, ruined love, prospering love, in denial love, jaded love, and true love, among others. After all, what the world needs now is love.",
       "release_date": "2015-12-25",
@@ -1223,6 +1231,7 @@ _loaded(
       "title": "Star Wars: Episode VII - The Force Awakens",
       "id": "star-wars-episode-vii-the-force-awakens",
       "url": "http://www.juice.ph/movies/movie/star-wars-episode-vii-the-force-awakens",
+      "showing": true,
       "imdb_id": "tt2488496",
       "themoviedb_id": "140607",
       "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
@@ -1236,6 +1245,86 @@ _loaded(
         "sm": "https://image.tmdb.org/t/p/w300/fYzpM9GmpBlIC893fNjoWCwE24H.jpg",
         "md": "https://image.tmdb.org/t/p/w780/fYzpM9GmpBlIC893fNjoWCwE24H.jpg",
         "lg": "https://image.tmdb.org/t/p/w1280/fYzpM9GmpBlIC893fNjoWCwE24H.jpg"
+      }
+    },
+    "extraction": {
+      "title": "Extraction",
+      "id": "extraction",
+      "url": "http://www.juice.ph/movies/movie/extraction",
+      "showing": false,
+      "imdb_id": "tt4382872",
+      "themoviedb_id": "326425",
+      "overview": "A former CIA operative is kidnapped by a group of terrorist. When his son learns there is no plan for his father to be saved, he launches his own rescue operation.",
+      "release_date": "2015-12-18",
+      "backdrop": {
+        "sm": "https://image.tmdb.org/t/p/w300/5hwuBoomPNtJefbr8pgve60hsbs.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/5hwuBoomPNtJefbr8pgve60hsbs.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/5hwuBoomPNtJefbr8pgve60hsbs.jpg"
+      },
+      "poster": {
+        "sm": "https://image.tmdb.org/t/p/w300/11xPw4J64U4VECD3xuPzc1royTi.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/11xPw4J64U4VECD3xuPzc1royTi.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/11xPw4J64U4VECD3xuPzc1royTi.jpg"
+      }
+    },
+    "snoopy-and-charlie-brown-the-peanuts-movie": {
+      "title": "Snoopy And Charlie Brown: The Peanuts Movie",
+      "id": "snoopy-and-charlie-brown-the-peanuts-movie",
+      "url": "http://www.juice.ph/movies/movie/snoopy-and-charlie-brown-the-peanuts-movie",
+      "showing": false,
+      "imdb_id": "tt2452042",
+      "themoviedb_id": "227973",
+      "overview": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home.",
+      "release_date": "2015-12-24",
+      "backdrop": {
+        "sm": "https://image.tmdb.org/t/p/w300/gokfO8RVKhfn8jNMyUBaaMgLjP8.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/gokfO8RVKhfn8jNMyUBaaMgLjP8.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/gokfO8RVKhfn8jNMyUBaaMgLjP8.jpg"
+      },
+      "poster": {
+        "sm": "https://image.tmdb.org/t/p/w300/zF6WpDC7fYTx2pqUYUet06buYmB.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/zF6WpDC7fYTx2pqUYUet06buYmB.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/zF6WpDC7fYTx2pqUYUet06buYmB.jpg"
+      }
+    },
+    "steve-jobs": {
+      "title": "Steve Jobs",
+      "id": "steve-jobs",
+      "url": "http://www.juice.ph/movies/movie/steve-jobs",
+      "showing": false,
+      "imdb_id": "tt2080374",
+      "themoviedb_id": "321697",
+      "overview": "Set backstage at three iconic product launches and ending in 1998 with the unveiling of the iMac, Steve Jobs takes us behind the scenes of the digital revolution to paint an intimate portrait of the brilliant man at its epicenter.",
+      "release_date": "2015-10-09",
+      "backdrop": {
+        "sm": "https://image.tmdb.org/t/p/w300/r3bv4zrP9yLkKcqyJeVcVUuyOml.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/r3bv4zrP9yLkKcqyJeVcVUuyOml.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/r3bv4zrP9yLkKcqyJeVcVUuyOml.jpg"
+      },
+      "poster": {
+        "sm": "https://image.tmdb.org/t/p/w300/7SUaf2UgoY0ZRGbQtRlfDkLDBCb.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/7SUaf2UgoY0ZRGbQtRlfDkLDBCb.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/7SUaf2UgoY0ZRGbQtRlfDkLDBCb.jpg"
+      }
+    },
+    "the-finest-hours": {
+      "title": "The Finest Hours",
+      "id": "the-finest-hours",
+      "url": "http://www.juice.ph/movies/movie/the-finest-hours",
+      "showing": false,
+      "imdb_id": "tt2025690",
+      "themoviedb_id": "300673",
+      "overview": "The Coast Guard makes a daring rescue attempt off the coast of Cape Cod after after a pair of oil tankers are destroyed during a blizzard in 1952.",
+      "release_date": "2016-01-29",
+      "backdrop": {
+        "sm": "https://image.tmdb.org/t/p/w300/gmDNnMSAKBZAkkyWEj9pjoMm0Ew.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/gmDNnMSAKBZAkkyWEj9pjoMm0Ew.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/gmDNnMSAKBZAkkyWEj9pjoMm0Ew.jpg"
+      },
+      "poster": {
+        "sm": "https://image.tmdb.org/t/p/w300/zgtwmg19E7rID76K7Bg8MRMWwG1.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/zgtwmg19E7rID76K7Bg8MRMWwG1.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/zgtwmg19E7rID76K7Bg8MRMWwG1.jpg"
       }
     }
   },
