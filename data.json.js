@@ -569,14 +569,14 @@ _loaded(
     "robinsons-galleria": {
       "title": "Robinsons Galleria",
       "id": "robinsons-galleria",
-      "city_id": "quezon-city",
+      "city_id": "mandaluyong",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-16",
       "address": "4/F Robinsons Galleria, EDSA Corner Ortigas Avenue, Quezon City, Metro Manila, Philippines"
     },
     "robinsons-magnolia": {
       "title": "Robinsons Magnolia",
       "id": "robinsons-magnolia",
-      "city_id": "quezon-city",
+      "city_id": "san-juan",
       "url": "http://www.juice.ph/movies/cinema/robinsons-land-corporation-52",
       "address": "Robinsons Magnolia, Aurora Boulevard Corner Dona Hemady Street, New Manila, Quezon City, Metro Manila, Philippines"
     },
@@ -1237,9 +1237,9 @@ _loaded(
       "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
       "release_date": "2015-12-18",
       "backdrop": {
-        "sm": "https://image.tmdb.org/t/p/w300/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg",
-        "md": "https://image.tmdb.org/t/p/w780/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg",
-        "lg": "https://image.tmdb.org/t/p/w1280/c2Ax8Rox5g6CneChwy1gmu4UbSb.jpg"
+        "sm": "https://image.tmdb.org/t/p/w300/njv65RTipNSTozFLuF85jL0bcQe.jpg",
+        "md": "https://image.tmdb.org/t/p/w780/njv65RTipNSTozFLuF85jL0bcQe.jpg",
+        "lg": "https://image.tmdb.org/t/p/w1280/njv65RTipNSTozFLuF85jL0bcQe.jpg"
       },
       "poster": {
         "sm": "https://image.tmdb.org/t/p/w300/fYzpM9GmpBlIC893fNjoWCwE24H.jpg",
@@ -1333,14 +1333,14 @@ _loaded(
       "title": "Cinema 1",
       "id": "lucky-chinatown-cinema-1",
       "theater_id": "lucky-chinatown",
-      "movie_id": "walang-forever",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:20",
-        "11:55",
-        "14:30",
-        "17:10",
+        "10:30",
+        "12:50",
+        "15:10",
+        "17:30",
         "19:50",
-        "22:30"
+        "22:10"
       ]
     },
     "lucky-chinatown-cinema-2": {
@@ -1349,12 +1349,11 @@ _loaded(
       "theater_id": "lucky-chinatown",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:50",
-        "12:15",
-        "14:40",
-        "17:10",
-        "19:40",
-        "22:10"
+        "11:50",
+        "14:20",
+        "16:50",
+        "19:20",
+        "21:50"
       ]
     },
     "lucky-chinatown-cinema-3": {
@@ -1363,12 +1362,12 @@ _loaded(
       "theater_id": "lucky-chinatown",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "11:00",
-        "13:20",
-        "15:30",
-        "17:40",
-        "19:50",
-        "22:00"
+        "10:50",
+        "13:00",
+        "15:10",
+        "17:20",
+        "19:30",
+        "21:40"
       ]
     },
     "lucky-chinatown-cinema-4": {
@@ -1377,12 +1376,12 @@ _loaded(
       "theater_id": "lucky-chinatown",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:00",
-        "12:30",
-        "15:00",
+        "11:00",
+        "13:10",
+        "15:20",
         "17:30",
-        "20:10",
-        "22:30"
+        "19:45",
+        "22:00"
       ]
     },
     "robinsons-manila-cinema-1": {
@@ -1432,12 +1431,12 @@ _loaded(
       "theater_id": "robinsons-manila",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "11:10",
-        "13:20",
-        "15:30",
-        "17:40",
-        "19:50",
-        "22:00"
+        "11:20",
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00",
+        "22:10"
       ]
     },
     "robinsons-manila-midtown-mall-cinema-1": {
@@ -1487,11 +1486,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "12:00",
+        "14:50",
+        "17:40",
+        "20:30"
       ]
     },
     "sm-manila-cinema-2": {
@@ -1500,11 +1498,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:00",
         "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
+        "15:20",
+        "18:10",
+        "21:00"
       ]
     },
     "sm-manila-cinema-3": {
@@ -1513,12 +1510,11 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "10:25",
-        "12:40",
-        "14:55",
-        "17:10",
-        "19:25",
-        "21:40"
+        "10:40",
+        "13:30",
+        "16:10",
+        "18:50",
+        "21:30"
       ]
     },
     "sm-manila-cinema-4": {
@@ -1527,10 +1523,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
+        "10:30",
+        "13:15",
+        "16:00",
+        "18:45",
         "19:30",
         "22:00"
       ]
@@ -1541,11 +1537,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "walang-forever",
       "showtimes": [
-        "10:20",
-        "13:10",
-        "16:00",
-        "18:50",
-        "21:40"
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
       ]
     },
     "sm-manila-cinema-6": {
@@ -1554,11 +1549,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "10:40",
-        "13:25",
-        "16:10",
-        "18:55",
-        "21:40"
+        "12:15",
+        "15:10",
+        "18:05",
+        "21:00"
       ]
     },
     "sm-manila-cinema-7": {
@@ -1567,24 +1561,23 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "10:50",
-        "13:30",
-        "16:10",
-        "18:50",
-        "21:30"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-manila-cinema-8": {
       "title": "Cinema 8",
       "id": "sm-manila-cinema-8",
       "theater_id": "sm-manila",
-      "movie_id": "nilalang",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
         "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "14:20",
+        "17:10",
+        "20:00"
       ]
     },
     "sm-manila-cinema-9": {
@@ -1593,12 +1586,11 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "10:30",
+        "13:15",
+        "16:00",
+        "18:45",
+        "21:30"
       ]
     },
     "sm-manila-cinema-10": {
@@ -1607,10 +1599,9 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
+        "12:00",
+        "15:20",
+        "18:10",
         "21:00"
       ]
     },
@@ -1620,11 +1611,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:00",
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
+        "12:00",
+        "14:50",
+        "17:40",
+        "20:30"
       ]
     },
     "sm-manila-cinema-12": {
@@ -1633,11 +1623,10 @@ _loaded(
       "theater_id": "sm-manila",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:20",
-        "13:15",
-        "16:10",
-        "19:05",
-        "22:00"
+        "12:15",
+        "15:10",
+        "18:05",
+        "21:00"
       ]
     },
     "sm-san-lazaro-cinema-1": {
@@ -1646,12 +1635,11 @@ _loaded(
       "theater_id": "sm-san-lazaro",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:30",
-        "12:05",
-        "14:40",
-        "17:15",
-        "19:50",
-        "22:25"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "sm-san-lazaro-cinema-2": {
@@ -1660,12 +1648,11 @@ _loaded(
       "theater_id": "sm-san-lazaro",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:35",
-        "11:55",
-        "14:15",
-        "16:35",
-        "18:55",
-        "21:15"
+        "11:40",
+        "14:00",
+        "16:20",
+        "18:40",
+        "21:00"
       ]
     },
     "sm-san-lazaro-cinema-3": {
@@ -1674,24 +1661,23 @@ _loaded(
       "theater_id": "sm-san-lazaro",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:40",
-        "13:05",
-        "15:30",
-        "17:55",
-        "20:20"
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "sm-san-lazaro-cinema-4": {
       "title": "Cinema 4",
       "id": "sm-san-lazaro-cinema-4",
       "theater_id": "sm-san-lazaro",
-      "movie_id": "buy-now-die-later",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:10",
-        "13:45",
-        "16:20",
-        "18:55",
-        "21:30"
+        "12:45",
+        "15:20",
+        "18:05",
+        "20:40"
       ]
     },
     "sm-san-lazaro-cinema-5": {
@@ -1700,11 +1686,10 @@ _loaded(
       "theater_id": "sm-san-lazaro",
       "movie_id": "walang-forever",
       "showtimes": [
-        "10:30",
-        "13:15",
-        "16:00",
-        "18:45",
-        "21:30"
+        "12:30",
+        "15:15",
+        "18:00",
+        "20:45"
       ]
     },
     "sm-san-lazaro-cinema-6": {
@@ -1713,25 +1698,11 @@ _loaded(
       "theater_id": "sm-san-lazaro",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:20",
-        "11:45",
-        "14:10",
-        "16:35",
-        "19:00",
-        "21:25"
-      ]
-    },
-    "robinsons-las-pinas-cinema-3": {
-      "title": "Cinema 3",
-      "id": "robinsons-las-pinas-cinema-3",
-      "theater_id": "robinsons-las-pinas",
-      "movie_id": "my-bebe-love-kilig-pa-more",
-      "showtimes": [
-        "10:45",
-        "13:00",
-        "15:15",
-        "17:30",
-        "22:00"
+        "11:50",
+        "14:15",
+        "16:40",
+        "19:05",
+        "21:30"
       ]
     },
     "sm-southmall-cinema-1": {
@@ -1740,11 +1711,11 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:25",
-        "11:50",
-        "16:40",
-        "19:05",
-        "21:30"
+        "11:20",
+        "13:45",
+        "16:10",
+        "18:35",
+        "21:00"
       ]
     },
     "sm-southmall-cinema-2": {
@@ -1753,11 +1724,11 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:00",
-        "12:45",
-        "15:30",
-        "18:15",
-        "21:00"
+        "10:50",
+        "13:30",
+        "16:10",
+        "18:50",
+        "21:30"
       ]
     },
     "sm-southmall-cinema-3": {
@@ -1766,7 +1737,6 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:30",
         "11:10",
         "13:50",
         "16:30",
@@ -1780,7 +1750,6 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:05",
         "11:40",
         "14:15",
         "16:50",
@@ -1794,12 +1763,11 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "09:05",
-        "11:40",
-        "14:15",
-        "16:50",
-        "19:25",
-        "22:00"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-southmall-cinema-6": {
@@ -1808,10 +1776,10 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:30",
-        "13:15",
-        "16:00",
-        "18:45",
+        "10:50",
+        "13:30",
+        "16:10",
+        "18:50",
         "21:30"
       ]
     },
@@ -1821,19 +1789,18 @@ _loaded(
       "theater_id": "sm-southmall",
       "movie_id": "walang-forever",
       "showtimes": [
-        "08:40",
-        "11:20",
-        "14:00",
-        "16:40",
-        "19:20",
-        "22:00"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-southmall-cinema-8": {
       "title": "Cinema 8",
       "id": "sm-southmall-cinema-8",
       "theater_id": "sm-southmall",
-      "movie_id": "honor-thy-father",
+      "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
         "11:25",
         "14:00",
@@ -1960,11 +1927,11 @@ _loaded(
       "theater_id": "glorietta-4",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:40",
-        "14:15",
-        "16:50",
-        "19:25",
-        "22:00"
+        "12:10",
+        "14:45",
+        "17:20",
+        "19:55",
+        "22:30"
       ]
     },
     "glorietta-4-cinema-2": {
@@ -1973,11 +1940,11 @@ _loaded(
       "theater_id": "glorietta-4",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "12:00",
-        "14:35",
-        "17:10",
-        "19:45",
-        "22:20"
+        "12:20",
+        "14:55",
+        "17:30",
+        "20:05",
+        "22:40"
       ]
     },
     "glorietta-4-cinema-3": {
@@ -1986,12 +1953,11 @@ _loaded(
       "theater_id": "glorietta-4",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:20",
-        "15:40",
-        "18:00",
-        "20:20",
-        "22:40"
+        "12:40",
+        "15:00",
+        "17:20",
+        "19:40",
+        "22:00"
       ]
     },
     "glorietta-4-cinema-4": {
@@ -2076,13 +2042,13 @@ _loaded(
       "title": "Cinema 2",
       "id": "greenbelt-3-cinema-2",
       "theater_id": "greenbelt-3",
-      "movie_id": "all-you-need-is-pag-ibig",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "12:20",
-        "14:55",
-        "17:30",
+        "12:50",
+        "15:15",
+        "17:40",
         "20:05",
-        "22:40"
+        "22:30"
       ]
     },
     "greenbelt-3-cinema-3": {
@@ -2102,13 +2068,13 @@ _loaded(
       "title": "Cinema 4",
       "id": "greenbelt-3-cinema-4",
       "theater_id": "greenbelt-3",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "12:50",
-        "15:15",
-        "17:40",
+        "12:20",
+        "14:55",
+        "17:30",
         "20:05",
-        "22:30"
+        "22:40"
       ]
     },
     "greenbelt-3-cinema-5": {
@@ -2211,8 +2177,7 @@ _loaded(
         "13:30",
         "16:10",
         "18:50",
-        "21:30",
-        "22:30"
+        "21:30"
       ]
     },
     "waltermart-makati-cinema-2": {
@@ -2587,7 +2552,7 @@ _loaded(
       "title": "Cinema 1",
       "id": "star-mall-edsa-shaw-cinema-1",
       "theater_id": "star-mall-edsa-shaw",
-      "movie_id": "buy-now-die-later",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
         "10:30",
         "13:15",
@@ -2679,11 +2644,10 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:10",
-        "11:50",
-        "14:30",
-        "17:10",
-        "19:50",
+        "11:10",
+        "14:00",
+        "16:50",
+        "19:40",
         "22:30"
       ]
     },
@@ -2693,7 +2657,6 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "09:30",
         "11:15",
         "13:30",
         "15:45",
@@ -2708,11 +2671,10 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:35",
-        "11:10",
-        "13:45",
-        "16:20",
-        "18:55",
+        "10:40",
+        "13:30",
+        "16:10",
+        "18:50",
         "21:30"
       ]
     },
@@ -2722,11 +2684,10 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:10",
-        "11:50",
-        "14:30",
-        "17:10",
-        "19:50",
+        "11:10",
+        "14:00",
+        "16:50",
+        "19:40",
         "22:30"
       ]
     },
@@ -2736,7 +2697,6 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:50",
         "12:10",
         "14:30",
         "16:50",
@@ -2763,8 +2723,7 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "10:50",
+        "10:40",
         "13:10",
         "15:30",
         "17:50",
@@ -2778,7 +2737,6 @@ _loaded(
       "theater_id": "sm-marikina",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:00",
         "11:15",
         "13:30",
         "15:45",
@@ -3012,11 +2970,11 @@ _loaded(
       "theater_id": "sm-center-muntinlupa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:40",
-        "12:10",
-        "14:40",
-        "17:10",
-        "19:40",
+        "10:00",
+        "12:15",
+        "14:35",
+        "16:55",
+        "19:15",
         "22:00"
       ]
     },
@@ -3026,12 +2984,12 @@ _loaded(
       "theater_id": "sm-center-muntinlupa",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:45",
-        "12:10",
-        "14:35",
-        "17:00",
-        "19:25",
-        "22:00"
+        "10:00",
+        "12:45",
+        "15:20",
+        "15:20",
+        "17:55",
+        "20:30"
       ]
     },
     "sm-center-muntinlupa-cinema-3": {
@@ -3040,11 +2998,11 @@ _loaded(
       "theater_id": "sm-center-muntinlupa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "11:15",
+        "13:35",
+        "15:55",
+        "18:15",
+        "20:30"
       ]
     },
     "sm-center-muntinlupa-cinema-4": {
@@ -3053,12 +3011,11 @@ _loaded(
       "theater_id": "sm-center-muntinlupa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "star-mall-alabang-cinema-1": {
@@ -3106,9 +3063,11 @@ _loaded(
       "theater_id": "sm-bf-paranaque",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "16:00",
-        "18:20"
+        "11:00",
+        "13:30",
+        "16:10",
+        "18:50",
+        "21:30"
       ]
     },
     "sm-bf-paranaque-cinema-2": {
@@ -3117,7 +3076,8 @@ _loaded(
       "theater_id": "sm-bf-paranaque",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:45",
+        "12:15",
+        "14:45",
         "17:15",
         "19:45",
         "22:15"
@@ -3129,7 +3089,8 @@ _loaded(
       "theater_id": "sm-bf-paranaque",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:00",
+        "11:00",
+        "14:00",
         "16:30",
         "19:00",
         "21:30"
@@ -3141,7 +3102,6 @@ _loaded(
       "theater_id": "sm-bf-paranaque",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:35",
         "11:55",
         "14:15",
         "16:35",
@@ -3155,6 +3115,8 @@ _loaded(
       "theater_id": "sm-bf-paranaque",
       "movie_id": "walang-forever",
       "showtimes": [
+        "11:45",
+        "14:15",
         "16:45",
         "19:15",
         "21:45"
@@ -3166,7 +3128,6 @@ _loaded(
       "theater_id": "sm-bf-paranaque",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "10:20",
         "12:40",
         "15:00",
         "17:20",
@@ -3180,7 +3141,6 @@ _loaded(
       "theater_id": "sm-bicutan",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:00",
         "11:30",
         "14:00",
         "16:30",
@@ -3194,11 +3154,10 @@ _loaded(
       "theater_id": "sm-bicutan",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:00",
-        "12:20",
-        "14:40",
-        "17:00",
-        "19:15",
+        "12:10",
+        "14:30",
+        "16:50",
+        "19:10",
         "21:30"
       ]
     },
@@ -3208,12 +3167,11 @@ _loaded(
       "theater_id": "sm-bicutan",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "sm-bicutan-cinema-4": {
@@ -3222,11 +3180,10 @@ _loaded(
       "theater_id": "sm-bicutan",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:25",
-        "11:50",
-        "14:15",
-        "16:40",
-        "19:05",
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
         "21:30"
       ]
     },
@@ -3236,12 +3193,11 @@ _loaded(
       "theater_id": "sm-sucat",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "10:15",
-        "12:30",
-        "14:45",
-        "17:00",
-        "19:15",
-        "21:30"
+        "12:00",
+        "14:15",
+        "16:30",
+        "18:45",
+        "21:00"
       ]
     },
     "sm-sucat-cinema-2": {
@@ -3250,12 +3206,11 @@ _loaded(
       "theater_id": "sm-sucat",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
       ]
     },
     "sm-sucat-cinema-3": {
@@ -3264,12 +3219,11 @@ _loaded(
       "theater_id": "sm-sucat",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
       ]
     },
     "sm-sucat-cinema-4": {
@@ -3278,12 +3232,11 @@ _loaded(
       "theater_id": "sm-sucat",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
       ]
     },
     "newport-resorts-world-manila-cinema-1": {
@@ -3581,6 +3534,7 @@ _loaded(
       "theater_id": "ali-mall-cineplex",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
+        "11:00",
         "13:30",
         "16:00",
         "18:30",
@@ -3619,6 +3573,7 @@ _loaded(
       "theater_id": "ali-mall-cineplex",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
+        "11:00",
         "13:30",
         "16:00",
         "18:30",
@@ -3992,11 +3947,9 @@ _loaded(
       "theater_id": "robinsons-galleria",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:50",
         "12:10",
         "14:30",
         "16:50",
-        "19:10",
         "21:30"
       ]
     },
@@ -4006,11 +3959,11 @@ _loaded(
       "theater_id": "robinsons-galleria",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:30",
         "12:00",
         "14:30",
         "17:00",
         "19:30",
+        "22:00",
         "22:00"
       ]
     },
@@ -4033,7 +3986,6 @@ _loaded(
       "theater_id": "robinsons-galleria",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:30",
         "12:00",
         "14:30",
         "17:00",
@@ -4049,6 +4001,7 @@ _loaded(
       "showtimes": [
         "10:20",
         "12:40",
+        "15:00",
         "17:20",
         "19:40",
         "22:00"
@@ -4060,7 +4013,6 @@ _loaded(
       "theater_id": "robinsons-galleria",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:30",
         "12:00",
         "14:30",
         "17:00",
@@ -4115,7 +4067,6 @@ _loaded(
       "theater_id": "robinsons-galleria",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "09:55",
         "12:20",
         "14:45",
         "17:10",
@@ -4129,11 +4080,11 @@ _loaded(
       "theater_id": "robinsons-magnolia",
       "movie_id": "walang-forever",
       "showtimes": [
-        "10:20",
         "12:40",
         "15:00",
         "17:20",
         "19:40",
+        "22:00",
         "22:00"
       ]
     },
@@ -4143,11 +4094,10 @@ _loaded(
       "theater_id": "robinsons-magnolia",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:20",
-        "12:40",
-        "15:00",
-        "17:20",
-        "19:40",
+        "12:00",
+        "14:30",
+        "17:00",
+        "19:30",
         "22:00"
       ]
     },
@@ -4157,12 +4107,11 @@ _loaded(
       "theater_id": "robinsons-magnolia",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:45",
-        "13:00",
-        "15:15",
-        "17:30",
-        "19:45",
-        "22:00"
+        "11:15",
+        "13:25",
+        "15:35",
+        "17:45",
+        "22:10"
       ]
     },
     "robinsons-magnolia-cinema-4": {
@@ -4171,7 +4120,6 @@ _loaded(
       "theater_id": "robinsons-magnolia",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "10:20",
         "12:40",
         "15:00",
         "17:20",
@@ -4185,10 +4133,10 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:00",
-        "12:45",
-        "15:30",
-        "18:15",
+        "10:45",
+        "13:15",
+        "15:50",
+        "18:25",
         "21:00"
       ]
     },
@@ -4211,7 +4159,6 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:30",
         "12:00",
         "14:30",
         "17:00",
@@ -4225,7 +4172,6 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
         "11:30",
         "14:00",
         "16:30",
@@ -4239,12 +4185,10 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:40",
-        "12:20",
-        "15:00",
-        "17:40",
-        "20:20",
-        "23:00"
+        "12:00",
+        "14:40",
+        "17:20",
+        "20:00"
       ]
     },
     "sm-fairview-cinema-6": {
@@ -4266,7 +4210,6 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
         "12:00",
         "14:30",
         "17:00",
@@ -4280,7 +4223,6 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:40",
         "11:20",
         "14:00",
         "16:40",
@@ -4294,11 +4236,11 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "12:20",
-        "15:00",
-        "17:40",
-        "20:20",
-        "23:00"
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
       ]
     },
     "sm-fairview-cinema-10": {
@@ -4307,11 +4249,10 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "10:25",
-        "13:15",
-        "16:05",
-        "18:55",
-        "21:45"
+        "13:00",
+        "15:40",
+        "18:20",
+        "21:00"
       ]
     },
     "sm-fairview-cinema-11": {
@@ -4320,11 +4261,10 @@ _loaded(
       "theater_id": "sm-fairview",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "11:10",
-        "13:45",
-        "16:20",
-        "18:55",
-        "21:30"
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-fairview-cinema-12": {
@@ -4346,12 +4286,11 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:25",
-        "12:05",
-        "14:45",
-        "17:30",
-        "20:05",
-        "22:45"
+        "10:30",
+        "13:15",
+        "16:00",
+        "18:45",
+        "21:30"
       ]
     },
     "sm-north-edsa-cinema-2": {
@@ -4360,11 +4299,10 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "08:50",
-        "11:40",
-        "14:30",
-        "17:15",
-        "20:15",
+        "11:20",
+        "14:15",
+        "17:10",
+        "20:05",
         "23:00"
       ]
     },
@@ -4374,13 +4312,12 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "13:50",
-        "16:15",
-        "18:40",
-        "21:05",
-        "23:30"
+        "10:45",
+        "13:05",
+        "15:30",
+        "17:55",
+        "20:20",
+        "22:45"
       ]
     },
     "sm-north-edsa-cinema-4": {
@@ -4389,12 +4326,11 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:30",
-        "12:15",
-        "15:00",
-        "17:45",
-        "20:30",
-        "23:15"
+        "11:10",
+        "14:00",
+        "16:50",
+        "19:40",
+        "22:30"
       ]
     },
     "sm-north-edsa-cinema-5": {
@@ -4403,12 +4339,11 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30",
-        "23:00"
+        "11:45",
+        "14:15",
+        "16:45",
+        "19:15",
+        "21:45"
       ]
     },
     "sm-north-edsa-cinema-6": {
@@ -4417,13 +4352,11 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:45",
-        "11:15",
-        "13:45",
-        "16:15",
-        "18:45",
-        "21:15",
-        "23:45"
+        "12:00",
+        "14:45",
+        "17:30",
+        "20:15",
+        "23:00"
       ]
     },
     "sm-north-edsa-cinema-7": {
@@ -4432,13 +4365,12 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "08:45",
-        "11:10",
-        "13:35",
-        "16:00",
-        "18:25",
-        "20:50",
-        "23:15"
+        "11:05",
+        "13:25",
+        "15:45",
+        "18:05",
+        "20:25",
+        "22:45"
       ]
     },
     "sm-north-edsa-cinema-8": {
@@ -4447,13 +4379,12 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00",
-        "23:30"
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:15",
+        "20:45",
+        "23:15"
       ]
     },
     "sm-north-edsa-cinema-9": {
@@ -4462,7 +4393,6 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:00",
         "12:30",
         "15:00",
         "17:30",
@@ -4476,12 +4406,11 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:10",
-        "12:05",
-        "15:00",
-        "17:55",
-        "20:50",
-        "23:45"
+        "10:55",
+        "13:45",
+        "16:35",
+        "19:25",
+        "22:15"
       ]
     },
     "sm-north-edsa-cinema-11": {
@@ -4490,12 +4419,11 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:55",
-        "12:40",
-        "15:15",
-        "17:55",
-        "20:35",
-        "23:15"
+        "11:25",
+        "14:15",
+        "17:05",
+        "19:55",
+        "22:45"
       ]
     },
     "sm-north-edsa-imax-theater": {
@@ -4504,11 +4432,10 @@ _loaded(
       "theater_id": "sm-north-edsa",
       "movie_id": "star-wars-episode-vii-the-force-awakens",
       "showtimes": [
-        "08:50",
-        "11:40",
-        "14:30",
-        "17:20",
-        "20:10",
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00",
         "23:00"
       ]
     },
@@ -4518,13 +4445,12 @@ _loaded(
       "theater_id": "sm-novaliches",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "10:45",
-        "13:00",
-        "15:15",
-        "17:30",
-        "19:45",
-        "22:00"
+        "10:10",
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:30",
+        "21:50"
       ]
     },
     "sm-novaliches-cinema-2": {
@@ -4533,13 +4459,12 @@ _loaded(
       "theater_id": "sm-novaliches",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:45",
-        "11:00",
-        "13:15",
-        "15:30",
-        "17:45",
-        "20:00",
-        "22:15"
+        "10:20",
+        "12:40",
+        "15:00",
+        "17:20",
+        "19:40",
+        "22:00"
       ]
     },
     "sm-novaliches-cinema-3": {
@@ -4548,12 +4473,11 @@ _loaded(
       "theater_id": "sm-novaliches",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "11:00",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
       ]
     },
     "sm-novaliches-cinema-4": {
@@ -4562,12 +4486,11 @@ _loaded(
       "theater_id": "sm-novaliches",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:00",
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "11:15",
+        "14:10",
+        "16:40",
+        "19:10",
+        "21:40"
       ]
     },
     "sm-sta-mesa-cinema-1": {
@@ -4576,12 +4499,11 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:40",
-        "11:20",
-        "14:00",
-        "16:40",
-        "19:20",
-        "22:00"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "sm-sta-mesa-cinema-2": {
@@ -4590,13 +4512,11 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "nilalang",
       "showtimes": [
-        "08:30",
-        "10:40",
-        "12:50",
-        "15:00",
-        "17:10",
-        "19:20",
-        "21:30"
+        "12:20",
+        "14:30",
+        "16:40",
+        "18:50",
+        "21:00"
       ]
     },
     "sm-sta-mesa-cinema-3": {
@@ -4605,7 +4525,6 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "08:35",
         "11:10",
         "13:45",
         "16:20",
@@ -4619,7 +4538,6 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "08:30",
         "10:40",
         "12:50",
         "15:00",
@@ -4634,12 +4552,11 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:55",
-        "11:20",
-        "13:45",
-        "16:10",
-        "18:35",
-        "21:00"
+        "11:50",
+        "14:15",
+        "16:40",
+        "19:05",
+        "21:30"
       ]
     },
     "sm-sta-mesa-cinema-6": {
@@ -4648,12 +4565,11 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "08:35",
-        "11:10",
-        "13:45",
-        "16:20",
-        "18:55",
-        "21:30"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-sta-mesa-cinema-7": {
@@ -4662,11 +4578,11 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "12:20",
-        "14:45",
-        "17:10",
-        "19:35",
-        "22:00"
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "sm-sta-mesa-cinema-8": {
@@ -4675,7 +4591,6 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "09:25",
         "11:50",
         "14:15",
         "16:40",
@@ -4689,10 +4604,10 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "13:00",
-        "15:40",
-        "18:20",
-        "21:00"
+        "12:45",
+        "15:20",
+        "17:55",
+        "20:30"
       ]
     },
     "sm-sta-mesa-cinema-10": {
@@ -4701,12 +4616,10 @@ _loaded(
       "theater_id": "sm-sta-mesa",
       "movie_id": "walang-forever",
       "showtimes": [
-        "08:15",
-        "11:00",
-        "13:45",
-        "16:30",
-        "19:15",
-        "22:00"
+        "12:45",
+        "15:30",
+        "18:15",
+        "21:00"
       ]
     },
     "trinoma-cinema-1": {
@@ -5122,10 +5035,10 @@ _loaded(
       "theater_id": "sm-center-valenzuela",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "10:55",
-        "13:30",
-        "16:05",
-        "18:40",
+        "11:35",
+        "14:00",
+        "16:35",
+        "18:50",
         "21:15"
       ]
     },
@@ -5135,10 +5048,10 @@ _loaded(
       "theater_id": "sm-center-valenzuela",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "12:15",
-        "15:00",
-        "17:45",
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
         "20:30"
       ]
     },
@@ -5148,10 +5061,10 @@ _loaded(
       "theater_id": "sm-center-valenzuela",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "13:15",
-        "16:00",
-        "18:45",
+        "11:50",
+        "14:15",
+        "16:40",
+        "19:05",
         "21:30"
       ]
     },
@@ -5161,17 +5074,43 @@ _loaded(
       "theater_id": "sm-center-valenzuela",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:50",
-        "12:10",
-        "14:30",
-        "16:50",
-        "19:10",
+        "10:50",
+        "13:30",
+        "16:10",
+        "18:50",
         "21:30"
       ]
     },
     "robinsons-butuan-cinema-1": {
       "title": "Cinema 1",
       "id": "robinsons-butuan-cinema-1",
+      "theater_id": "robinsons-butuan",
+      "movie_id": "all-you-need-is-pag-ibig",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "robinsons-butuan-cinema-2": {
+      "title": "Cinema 2",
+      "id": "robinsons-butuan-cinema-2",
+      "theater_id": "robinsons-butuan",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "10:30",
+        "12:40",
+        "14:50",
+        "17:00",
+        "19:10",
+        "21:20"
+      ]
+    },
+    "robinsons-butuan-cinema-3": {
+      "title": "Cinema 3",
+      "id": "robinsons-butuan-cinema-3",
       "theater_id": "robinsons-butuan",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
@@ -5183,39 +5122,11 @@ _loaded(
         "21:30"
       ]
     },
-    "robinsons-butuan-cinema-2": {
-      "title": "Cinema 2",
-      "id": "robinsons-butuan-cinema-2",
-      "theater_id": "robinsons-butuan",
-      "movie_id": "my-bebe-love-kilig-pa-more",
-      "showtimes": [
-        "10:00",
-        "12:15",
-        "14:30",
-        "16:45",
-        "19:00",
-        "21:15"
-      ]
-    },
-    "robinsons-butuan-cinema-3": {
-      "title": "Cinema 3",
-      "id": "robinsons-butuan-cinema-3",
-      "theater_id": "robinsons-butuan",
-      "movie_id": "beauty-and-the-bestie",
-      "showtimes": [
-        "10:00",
-        "12:15",
-        "14:30",
-        "16:45",
-        "19:00",
-        "21:15"
-      ]
-    },
     "robinsons-butuan-cinema-4": {
       "title": "Cinema 4",
       "id": "robinsons-butuan-cinema-4",
       "theater_id": "robinsons-butuan",
-      "movie_id": "buy-now-die-later",
+      "movie_id": "walang-forever",
       "showtimes": [
         "11:20",
         "13:45",
@@ -5308,25 +5219,24 @@ _loaded(
       "theater_id": "sm-batangas",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "10:00",
-        "12:40",
-        "15:15",
-        "17:50",
-        "20:25"
+        "10:45",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "sm-batangas-cinema-2": {
       "title": "Cinema 2",
       "id": "sm-batangas-cinema-2",
       "theater_id": "sm-batangas",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:30",
-        "11:55",
-        "14:20",
-        "16:45",
-        "19:10",
-        "21:30"
+        "11:15",
+        "13:25",
+        "15:35",
+        "17:45",
+        "20:00"
       ]
     },
     "sm-batangas-cinema-3": {
@@ -5335,25 +5245,75 @@ _loaded(
       "theater_id": "sm-batangas",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "11:45",
-        "14:05",
-        "16:25",
-        "18:45",
-        "21:00"
+        "11:00",
+        "13:20",
+        "15:40",
+        "18:00",
+        "20:15"
       ]
     },
     "sm-batangas-cinema-4": {
       "title": "Cinema 4",
       "id": "sm-batangas-cinema-4",
       "theater_id": "sm-batangas",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00"
+      ]
+    },
+    "robinsons-lipa-cinema-1": {
+      "title": "Cinema 1",
+      "id": "robinsons-lipa-cinema-1",
+      "theater_id": "robinsons-lipa",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "10:40",
+        "13:10",
+        "15:40",
+        "18:10",
+        "20:40"
+      ]
+    },
+    "robinsons-lipa-cinema-2": {
+      "title": "Cinema 2",
+      "id": "robinsons-lipa-cinema-2",
+      "theater_id": "robinsons-lipa",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "10:50",
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
+      ]
+    },
+    "robinsons-lipa-cinema-3": {
+      "title": "Cinema 3",
+      "id": "robinsons-lipa-cinema-3",
+      "theater_id": "robinsons-lipa",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:00",
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
+        "10:30",
+        "13:05",
+        "15:40",
+        "18:15",
+        "20:50"
+      ]
+    },
+    "robinsons-lipa-cinema-4": {
+      "title": "Cinema 4",
+      "id": "robinsons-lipa-cinema-4",
+      "theater_id": "robinsons-lipa",
+      "movie_id": "walang-forever",
+      "showtimes": [
+        "10:50",
+        "13:25",
+        "16:00",
+        "18:35",
+        "21:00"
       ]
     },
     "sm-lipa-cinema-1": {
@@ -5375,12 +5335,11 @@ _loaded(
       "theater_id": "sm-lipa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:40",
-        "11:10",
-        "13:40",
-        "16:10",
-        "18:40",
-        "21:10"
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
       ]
     },
     "sm-lipa-cinema-3": {
@@ -5389,12 +5348,11 @@ _loaded(
       "theater_id": "sm-lipa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "11:20",
-        "13:40",
-        "16:00",
-        "18:20",
-        "20:40"
+        "11:00",
+        "13:20",
+        "15:40",
+        "18:00",
+        "20:20"
       ]
     },
     "sm-lipa-cinema-4": {
@@ -5403,10 +5361,10 @@ _loaded(
       "theater_id": "sm-lipa",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:20",
-        "12:50",
-        "15:20",
-        "17:50",
+        "10:40",
+        "13:05",
+        "15:30",
+        "17:55",
         "20:20"
       ]
     },
@@ -5482,13 +5440,13 @@ _loaded(
       "title": "Cinema 2",
       "id": "sm-baliwag-cinema-2",
       "theater_id": "sm-baliwag",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "buy-now-die-later",
       "showtimes": [
-        "11:40",
-        "14:10",
-        "16:40",
-        "19:10",
-        "21:40"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "sm-baliwag-cinema-3": {
@@ -5510,11 +5468,11 @@ _loaded(
       "theater_id": "sm-baliwag",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:40",
-        "13:10",
-        "15:40",
-        "18:10",
-        "20:40"
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
       ]
     },
     "robinsons-malolos-cinema-2": {
@@ -5523,12 +5481,11 @@ _loaded(
       "theater_id": "robinsons-malolos",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "11:10",
-        "13:20",
-        "15:30",
-        "17:40",
-        "19:50",
+        "10:45",
+        "13:00",
+        "15:15",
+        "17:30",
+        "19:45",
         "22:00"
       ]
     },
@@ -5536,13 +5493,12 @@ _loaded(
       "title": "Cinema 3",
       "id": "robinsons-malolos-cinema-3",
       "theater_id": "robinsons-malolos",
-      "movie_id": "buy-now-die-later",
+      "movie_id": "walang-forever",
       "showtimes": [
-        "09:50",
-        "12:10",
-        "14:30",
-        "16:50",
-        "19:10",
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
         "21:30"
       ]
     },
@@ -5552,12 +5508,11 @@ _loaded(
       "theater_id": "robinsons-malolos",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:10",
-        "12:20",
-        "14:30",
-        "16:40",
-        "18:50",
-        "21:00"
+        "11:30",
+        "13:50",
+        "16:10",
+        "18:30",
+        "20:50"
       ]
     },
     "sm-marilao-cinema-1": {
@@ -5566,12 +5521,11 @@ _loaded(
       "theater_id": "sm-marilao",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
       ]
     },
     "sm-marilao-cinema-2": {
@@ -5580,11 +5534,11 @@ _loaded(
       "theater_id": "sm-marilao",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:15",
-        "13:45",
-        "16:15",
-        "18:45",
-        "21:15"
+        "11:30",
+        "14:05",
+        "16:40",
+        "19:15",
+        "21:50"
       ]
     },
     "sm-marilao-cinema-3": {
@@ -5593,7 +5547,6 @@ _loaded(
       "theater_id": "sm-marilao",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:15",
         "11:45",
         "14:15",
         "16:45",
@@ -5607,11 +5560,10 @@ _loaded(
       "theater_id": "sm-marilao",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
       ]
     },
     "star-mall-san-jose-del-monte-cinema-1": {
@@ -5646,10 +5598,9 @@ _loaded(
       "theater_id": "sm-naga",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:50",
-        "12:15",
-        "14:40",
-        "17:05",
+        "12:00",
+        "14:30",
+        "17:00",
         "19:30"
       ]
     },
@@ -5659,10 +5610,10 @@ _loaded(
       "theater_id": "sm-naga",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:50",
-        "12:15",
-        "14:40",
-        "17:05",
+        "10:30",
+        "12:45",
+        "15:00",
+        "17:15",
         "19:30"
       ]
     },
@@ -5672,11 +5623,10 @@ _loaded(
       "theater_id": "sm-naga",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:10",
-        "11:20",
-        "13:30",
-        "15:40",
-        "17:50",
+        "10:40",
+        "13:00",
+        "15:20",
+        "17:40",
         "20:00"
       ]
     },
@@ -5686,12 +5636,11 @@ _loaded(
       "theater_id": "sm-naga",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
-        "11:15",
-        "13:30",
-        "15:45",
-        "18:00",
-        "20:15"
+        "10:40",
+        "13:00",
+        "15:20",
+        "17:40",
+        "20:00"
       ]
     },
     "robinsons-roxas-cinema-1": {
@@ -5700,10 +5649,10 @@ _loaded(
       "theater_id": "robinsons-roxas",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:45",
-        "12:30",
-        "15:10",
-        "17:50",
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
         "20:30"
       ]
     },
@@ -5713,11 +5662,10 @@ _loaded(
       "theater_id": "robinsons-roxas",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:20",
-        "11:30",
-        "13:45",
-        "16:00",
-        "18:20",
+        "11:15",
+        "13:30",
+        "15:50",
+        "18:10",
         "20:30"
       ]
     },
@@ -5740,26 +5688,24 @@ _loaded(
       "theater_id": "robinsons-roxas",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
-        "11:20",
-        "13:40",
-        "16:00",
-        "18:20",
-        "20:40"
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "sm-bacoor-cinema-1": {
       "title": "Cinema 1",
       "id": "sm-bacoor-cinema-1",
       "theater_id": "sm-bacoor",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "10:20",
+        "13:00",
+        "15:40",
+        "18:20",
+        "21:00"
       ]
     },
     "sm-bacoor-cinema-2": {
@@ -5768,11 +5714,10 @@ _loaded(
       "theater_id": "sm-bacoor",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:45",
-        "12:00",
-        "14:15",
-        "16:30",
-        "18:45",
+        "11:20",
+        "13:45",
+        "16:10",
+        "18:35",
         "21:00"
       ]
     },
@@ -5782,9 +5727,6 @@ _loaded(
       "theater_id": "sm-bacoor",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "12:30",
-        "15:30",
-        "18:15",
         "21:00"
       ]
     },
@@ -5794,9 +5736,10 @@ _loaded(
       "theater_id": "sm-bacoor",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:40",
-        "13:15",
-        "18:25",
+        "10:20",
+        "13:00",
+        "15:40",
+        "18:20",
         "21:00"
       ]
     },
@@ -5804,13 +5747,13 @@ _loaded(
       "title": "Cinema 5",
       "id": "sm-bacoor-cinema-5",
       "theater_id": "sm-bacoor",
-      "movie_id": "all-you-need-is-pag-ibig",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:45",
-        "12:30",
-        "15:20",
-        "18:10",
-        "21:00"
+        "10:50",
+        "13:30",
+        "16:10",
+        "18:50",
+        "21:30"
       ]
     },
     "sm-bacoor-cinema-6": {
@@ -5819,11 +5762,12 @@ _loaded(
       "theater_id": "sm-bacoor",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "12:00",
-        "14:30",
+        "10:15",
+        "12:30",
+        "14:45",
         "17:00",
-        "19:30",
-        "22:00"
+        "19:15",
+        "21:30"
       ]
     },
     "sm-bacoor-cinema-7": {
@@ -5832,10 +5776,10 @@ _loaded(
       "theater_id": "sm-bacoor",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:45",
-        "12:30",
-        "15:20",
-        "18:10",
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
         "21:00"
       ]
     },
@@ -5845,11 +5789,10 @@ _loaded(
       "theater_id": "sm-bacoor",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "09:20",
-        "11:40",
-        "14:00",
-        "16:20",
-        "18:40",
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
         "21:00"
       ]
     },
@@ -5859,12 +5802,12 @@ _loaded(
       "theater_id": "sm-center-molino",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "09:30",
+        "11:50",
+        "14:10",
+        "16:30",
+        "18:50",
+        "21:10"
       ]
     },
     "sm-center-molino-cinema-2": {
@@ -5873,7 +5816,6 @@ _loaded(
       "theater_id": "sm-center-molino",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "08:20",
         "10:55",
         "13:30",
         "16:05",
@@ -5887,12 +5829,12 @@ _loaded(
       "theater_id": "sm-center-molino",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:35",
-        "11:10",
-        "13:45",
-        "16:20",
-        "18:55",
-        "21:30"
+        "09:30",
+        "11:55",
+        "14:20",
+        "16:45",
+        "19:10",
+        "21:35"
       ]
     },
     "sm-center-molino-cinema-4": {
@@ -5901,7 +5843,6 @@ _loaded(
       "theater_id": "sm-center-molino",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
         "11:30",
         "14:00",
         "16:30",
@@ -5915,11 +5856,11 @@ _loaded(
       "theater_id": "robinsons-dasmarinas",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "10:45",
+        "13:15",
+        "15:45",
+        "18:15",
+        "20:45"
       ]
     },
     "robinsons-dasmarinas-cinema-2": {
@@ -5928,24 +5869,23 @@ _loaded(
       "theater_id": "robinsons-dasmarinas",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "12:45",
-        "15:00",
-        "17:15",
-        "19:30"
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "robinsons-dasmarinas-cinema-3": {
       "title": "Cinema 3",
       "id": "robinsons-dasmarinas-cinema-3",
       "theater_id": "robinsons-dasmarinas",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "12:00",
-        "14:15",
-        "16:30",
-        "18:45",
-        "21:00"
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
       ]
     },
     "robinsons-dasmarinas-cinema-4": {
@@ -5967,12 +5907,11 @@ _loaded(
       "theater_id": "sm-dasmarinas",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:40",
-        "11:10",
-        "13:40",
-        "16:10",
-        "18:40",
-        "21:10"
+        "10:45",
+        "13:15",
+        "15:45",
+        "18:15",
+        "20:45"
       ]
     },
     "sm-dasmarinas-cinema-2": {
@@ -5981,12 +5920,10 @@ _loaded(
       "theater_id": "sm-dasmarinas",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "11:45",
+        "14:25",
+        "17:05",
+        "19:45"
       ]
     },
     "sm-dasmarinas-cinema-3": {
@@ -5995,12 +5932,11 @@ _loaded(
       "theater_id": "sm-dasmarinas",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:55",
-        "12:15",
-        "14:35",
-        "16:55",
-        "19:15",
-        "21:35"
+        "11:10",
+        "13:30",
+        "15:55",
+        "18:20",
+        "20:40"
       ]
     },
     "sm-dasmarinas-cinema-4": {
@@ -6009,12 +5945,11 @@ _loaded(
       "theater_id": "sm-dasmarinas",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:55",
-        "11:20",
-        "13:45",
-        "16:10",
-        "18:35",
-        "21:00"
+        "10:45",
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:15"
       ]
     },
     "sm-dasmarinas-cinema-5": {
@@ -6023,12 +5958,11 @@ _loaded(
       "theater_id": "sm-dasmarinas",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:00",
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "10:45",
+        "13:15",
+        "15:45",
+        "18:15",
+        "20:45"
       ]
     },
     "sm-dasmarinas-cinema-6": {
@@ -6037,25 +5971,24 @@ _loaded(
       "theater_id": "sm-dasmarinas",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:45",
-        "12:00",
-        "14:15",
-        "16:30",
-        "18:45",
-        "21:00"
+        "11:15",
+        "13:30",
+        "15:45",
+        "18:00",
+        "20:20"
       ]
     },
     "robinsons-imus-cinema-1": {
       "title": "Cinema 1",
       "id": "robinsons-imus-cinema-1",
       "theater_id": "robinsons-imus",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "walang-forever",
       "showtimes": [
-        "11:50",
-        "14:25",
-        "16:40",
-        "18:55",
-        "21:10"
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "robinsons-imus-cinema-2": {
@@ -6077,11 +6010,11 @@ _loaded(
       "theater_id": "robinsons-imus",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "12:45",
-        "15:00",
-        "17:15",
-        "19:30"
+        "10:50",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "robinsons-imus-cinema-4": {
@@ -6091,10 +6024,10 @@ _loaded(
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
         "10:40",
-        "13:15",
-        "15:50",
-        "18:25",
-        "21:00"
+        "13:10",
+        "15:40",
+        "18:10",
+        "20:40"
       ]
     },
     "sm-rosario-cinema-1": {
@@ -6103,12 +6036,11 @@ _loaded(
       "theater_id": "sm-rosario",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:00",
-        "12:15",
-        "14:30",
-        "16:45",
-        "19:00",
-        "21:20"
+        "10:40",
+        "13:05",
+        "15:25",
+        "17:45",
+        "20:10"
       ]
     },
     "sm-rosario-cinema-2": {
@@ -6117,12 +6049,11 @@ _loaded(
       "theater_id": "sm-rosario",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "11:20",
-        "13:40",
-        "16:00",
-        "18:20",
-        "20:40"
+        "11:30",
+        "13:50",
+        "16:15",
+        "18:35",
+        "20:50"
       ]
     },
     "sm-rosario-cinema-3": {
@@ -6131,12 +6062,11 @@ _loaded(
       "theater_id": "sm-rosario",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:40",
-        "12:00",
-        "14:20",
-        "16:40",
-        "19:00",
-        "21:20"
+        "10:50",
+        "13:20",
+        "15:50",
+        "18:20",
+        "20:50"
       ]
     },
     "sm-rosario-cinema-4": {
@@ -6145,11 +6075,10 @@ _loaded(
       "theater_id": "sm-rosario",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:10",
-        "11:30",
-        "13:50",
-        "16:10",
-        "18:30",
+        "10:45",
+        "13:15",
+        "15:45",
+        "18:15",
         "20:50"
       ]
     },
@@ -6159,10 +6088,11 @@ _loaded(
       "theater_id": "ayala-center-cebu",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "14:00",
-        "17:00",
-        "19:15",
-        "22:00"
+        "12:10",
+        "14:30",
+        "16:45",
+        "19:00",
+        "21:45"
       ]
     },
     "ayala-center-cebu-cinema-2": {
@@ -6171,7 +6101,7 @@ _loaded(
       "theater_id": "ayala-center-cebu",
       "movie_id": "walang-forever",
       "showtimes": [
-        "13:35",
+        "12:15",
         "16:05",
         "18:35",
         "21:30"
@@ -6196,8 +6126,8 @@ _loaded(
       "theater_id": "ayala-center-cebu",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "13:15",
-        "15:55",
+        "11:50",
+        "15:10",
         "18:35",
         "21:45"
       ]
@@ -6232,10 +6162,9 @@ _loaded(
       "theater_id": "sm-cebu",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:50",
-        "13:30",
-        "16:10",
-        "18:50",
+        "13:00",
+        "15:50",
+        "18:40",
         "21:30"
       ]
     },
@@ -6245,7 +6174,7 @@ _loaded(
       "theater_id": "sm-cebu",
       "movie_id": "star-wars-episode-vii-the-force-awakens",
       "showtimes": [
-        "10:00",
+        "10:30",
         "13:00",
         "16:00",
         "19:00",
@@ -6258,10 +6187,10 @@ _loaded(
       "theater_id": "sm-cebu",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
+        "12:30",
+        "14:45",
+        "17:00",
+        "19:15",
         "21:30"
       ]
     },
@@ -6271,11 +6200,10 @@ _loaded(
       "theater_id": "sm-cebu",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "12:15",
+        "15:00",
+        "17:45",
+        "20:30"
       ]
     },
     "sm-cebu-cinema-7": {
@@ -6284,11 +6212,11 @@ _loaded(
       "theater_id": "sm-cebu",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "13:15",
-        "16:00",
-        "18:45",
-        "21:30"
+        "11:10",
+        "13:45",
+        "16:25",
+        "19:05",
+        "21:45"
       ]
     },
     "sm-cebu-cinema-8": {
@@ -6297,24 +6225,24 @@ _loaded(
       "theater_id": "sm-cebu",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:30",
-        "13:15",
-        "16:00",
-        "18:45",
-        "21:30"
+        "11:10",
+        "13:45",
+        "16:25",
+        "19:05",
+        "21:45"
       ]
     },
     "sm-consolacion-cinema-1": {
       "title": "Cinema 1",
       "id": "sm-consolacion-cinema-1",
       "theater_id": "sm-consolacion",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "haunted-mansion",
       "showtimes": [
-        "10:40",
-        "13:15",
-        "15:50",
-        "18:25",
-        "21:00"
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
       ]
     },
     "sm-consolacion-cinema-2": {
@@ -6323,7 +6251,11 @@ _loaded(
       "theater_id": "sm-consolacion",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:40"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-consolacion-cinema-3": {
@@ -6332,7 +6264,11 @@ _loaded(
       "theater_id": "sm-consolacion",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:10"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "sm-consolacion-cinema-4": {
@@ -6342,7 +6278,90 @@ _loaded(
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
         "11:10",
-        "13:45"
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-tagum-cinema-1": {
+      "title": "Cinema 1",
+      "id": "gaisano-mall-tagum-cinema-1",
+      "theater_id": "gaisano-mall-tagum",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-tagum-cinema-2": {
+      "title": "Cinema 2",
+      "id": "gaisano-mall-tagum-cinema-2",
+      "theater_id": "gaisano-mall-tagum",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "10:30",
+        "12:30",
+        "14:30",
+        "16:40",
+        "18:50",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-tagum-cinema-3": {
+      "title": "Cinema 3",
+      "id": "gaisano-mall-tagum-cinema-3",
+      "theater_id": "gaisano-mall-tagum",
+      "movie_id": "buy-now-die-later",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-tagum-cinema-4": {
+      "title": "Cinema 4",
+      "id": "gaisano-mall-tagum-cinema-4",
+      "theater_id": "gaisano-mall-tagum",
+      "movie_id": "all-you-need-is-pag-ibig",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-tagum-cinema-5": {
+      "title": "Cinema 5",
+      "id": "gaisano-mall-tagum-cinema-5",
+      "theater_id": "gaisano-mall-tagum",
+      "movie_id": "walang-forever",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-tagum-cinema-6": {
+      "title": "Cinema 6",
+      "id": "gaisano-mall-tagum-cinema-6",
+      "theater_id": "gaisano-mall-tagum",
+      "movie_id": "nilalang",
+      "showtimes": [
+        "11:00",
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00",
+        "21:00"
       ]
     },
     "abreeza-mall-cinema-1": {
@@ -6394,6 +6413,168 @@ _loaded(
         "13:15",
         "15:50",
         "18:25",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-davao-cinema-1": {
+      "title": "Cinema 1",
+      "id": "gaisano-mall-davao-cinema-1",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "all-you-need-is-pag-ibig",
+      "showtimes": [
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-2": {
+      "title": "Cinema 2",
+      "id": "gaisano-mall-davao-cinema-2",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "buy-now-die-later",
+      "showtimes": [
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-3": {
+      "title": "Cinema 3",
+      "id": "gaisano-mall-davao-cinema-3",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-4": {
+      "title": "Cinema 4",
+      "id": "gaisano-mall-davao-cinema-4",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "10:40",
+        "12:50",
+        "15:00",
+        "17:10",
+        "19:20",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-5": {
+      "title": "Cinema 5",
+      "id": "gaisano-mall-davao-cinema-5",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "haunted-mansion",
+      "showtimes": [
+        "11:30",
+        "13:30",
+        "15:30",
+        "17:30",
+        "19:30",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-6": {
+      "title": "Cinema 6",
+      "id": "gaisano-mall-davao-cinema-6",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "honor-thy-father",
+      "showtimes": [
+        "11:30",
+        "13:30",
+        "15:30",
+        "17:30",
+        "19:30",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-7": {
+      "title": "Cinema 7",
+      "id": "gaisano-mall-davao-cinema-7",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "nilalang",
+      "showtimes": [
+        "11:30",
+        "13:30",
+        "15:30",
+        "17:30",
+        "19:30",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-davao-cinema-8": {
+      "title": "Cinema 8",
+      "id": "gaisano-mall-davao-cinema-8",
+      "theater_id": "gaisano-mall-davao",
+      "movie_id": "walang-forever",
+      "showtimes": [
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
+      ]
+    },
+    "gaisano-mall-of-toril-cinema-1": {
+      "title": "Cinema 1",
+      "id": "gaisano-mall-of-toril-cinema-1",
+      "theater_id": "gaisano-mall-of-toril",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-of-toril-cinema-2": {
+      "title": "Cinema 2",
+      "id": "gaisano-mall-of-toril-cinema-2",
+      "theater_id": "gaisano-mall-of-toril",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "10:30",
+        "12:30",
+        "14:30",
+        "16:40",
+        "18:50",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-of-toril-cinema-3": {
+      "title": "Cinema 3",
+      "id": "gaisano-mall-of-toril-cinema-3",
+      "theater_id": "gaisano-mall-of-toril",
+      "movie_id": "all-you-need-is-pag-ibig",
+      "showtimes": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    "gaisano-mall-of-toril-cinema-4": {
+      "title": "Cinema 4",
+      "id": "gaisano-mall-of-toril-cinema-4",
+      "theater_id": "gaisano-mall-of-toril",
+      "movie_id": "haunted-mansion",
+      "showtimes": [
+        "11:00",
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00",
         "21:00"
       ]
     },
@@ -6534,11 +6715,10 @@ _loaded(
       "theater_id": "sm-lanang-premier",
       "movie_id": "honor-thy-father",
       "showtimes": [
-        "08:30",
-        "10:45",
-        "13:15",
-        "15:35",
-        "18:15",
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
         "21:00"
       ]
     },
@@ -6548,11 +6728,10 @@ _loaded(
       "theater_id": "sm-lanang-premier",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:30",
-        "13:05",
-        "15:40",
-        "18:15",
-        "21:00"
+        "12:45",
+        "15:20",
+        "17:55",
+        "20:30"
       ]
     },
     "sm-lanang-premier-cinema-3": {
@@ -6561,11 +6740,10 @@ _loaded(
       "theater_id": "sm-lanang-premier",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
+        "11:20",
+        "13:45",
+        "16:10",
+        "18:35",
         "21:00"
       ]
     },
@@ -6575,11 +6753,10 @@ _loaded(
       "theater_id": "sm-lanang-premier",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "08:30",
-        "10:40",
-        "13:00",
-        "15:40",
-        "18:20",
+        "12:15",
+        "14:30",
+        "16:40",
+        "18:50",
         "21:00"
       ]
     },
@@ -6589,12 +6766,11 @@ _loaded(
       "theater_id": "sm-lanang-premier",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "08:30",
-        "10:50",
-        "13:40",
-        "16:10",
-        "18:45",
-        "21:30"
+        "10:30",
+        "13:05",
+        "15:40",
+        "18:15",
+        "21:00"
       ]
     },
     "sm-lanang-premier-cinema-6": {
@@ -6603,12 +6779,11 @@ _loaded(
       "theater_id": "sm-lanang-premier",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-lanang-premier-imax-theater": {
@@ -6627,21 +6802,20 @@ _loaded(
       "title": "Cinema 1",
       "id": "robinsons-ilocos-norte-cinema-1",
       "theater_id": "robinsons-ilocos-norte",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:20",
-        "11:40",
-        "14:00",
-        "16:20",
-        "18:40",
-        "21:00"
+        "11:50",
+        "14:10",
+        "16:30",
+        "18:50",
+        "21:10"
       ]
     },
     "robinsons-ilocos-norte-cinema-2": {
       "title": "Cinema 2",
       "id": "robinsons-ilocos-norte-cinema-2",
       "theater_id": "robinsons-ilocos-norte",
-      "movie_id": "buy-now-die-later",
+      "movie_id": "walang-forever",
       "showtimes": [
         "11:20",
         "13:45",
@@ -6654,14 +6828,13 @@ _loaded(
       "title": "Cinema 3",
       "id": "robinsons-ilocos-norte-cinema-3",
       "theater_id": "robinsons-ilocos-norte",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:50",
-        "12:05",
-        "14:20",
-        "16:35",
-        "18:55",
-        "21:10"
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
       ]
     },
     "robinsons-iloilo-cinema-1": {
@@ -6683,11 +6856,11 @@ _loaded(
       "theater_id": "robinsons-iloilo",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:15",
-        "12:45",
-        "15:15",
-        "17:45",
-        "20:15"
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
       ]
     },
     "robinsons-iloilo-cinema-3": {
@@ -6771,7 +6944,6 @@ _loaded(
       "theater_id": "sm-iloilo",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:20",
         "13:00",
         "15:40",
         "18:20",
@@ -6784,7 +6956,6 @@ _loaded(
       "theater_id": "sm-iloilo",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "10:20",
         "13:00",
         "15:40",
         "18:20",
@@ -6823,7 +6994,6 @@ _loaded(
       "theater_id": "sm-iloilo",
       "movie_id": "walang-forever",
       "showtimes": [
-        "10:20",
         "13:00",
         "15:40",
         "18:20",
@@ -6862,6 +7032,28 @@ _loaded(
       "title": "Cinema 2",
       "id": "sm-cauayan-cinema-2",
       "theater_id": "sm-cauayan",
+      "movie_id": "buy-now-die-later",
+      "showtimes": [
+        "17:00",
+        "19:30",
+        "22:00"
+      ]
+    },
+    "sm-cauayan-cinema-2-2": {
+      "title": "Cinema 2",
+      "id": "sm-cauayan-cinema-2-2",
+      "theater_id": "sm-cauayan",
+      "movie_id": "walang-forever",
+      "showtimes": [
+        "09:30",
+        "12:00",
+        "14:30"
+      ]
+    },
+    "sm-cauayan-cinema-3": {
+      "title": "Cinema 3",
+      "id": "sm-cauayan-cinema-3",
+      "theater_id": "sm-cauayan",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
         "09:55",
@@ -6870,19 +7062,6 @@ _loaded(
         "17:10",
         "19:35",
         "22:00"
-      ]
-    },
-    "sm-cauayan-cinema-3": {
-      "title": "Cinema 3",
-      "id": "sm-cauayan-cinema-3",
-      "theater_id": "sm-cauayan",
-      "movie_id": "my-bebe-love-kilig-pa-more",
-      "showtimes": [
-        "11:20",
-        "13:35",
-        "15:50",
-        "18:05",
-        "20:40"
       ]
     },
     "sm-cauayan-cinema-4": {
@@ -6920,10 +7099,7 @@ _loaded(
       "showtimes": [
         "11:00",
         "13:10",
-        "15:20",
-        "17:30",
-        "19:40",
-        "22:00"
+        "15:20"
       ]
     },
     "robinsons-santiago-cinema-1": {
@@ -6966,20 +7142,6 @@ _loaded(
         "16:45",
         "19:10",
         "21:35"
-      ]
-    },
-    "robinsons-santiago-cinema-4": {
-      "title": "Cinema 4",
-      "id": "robinsons-santiago-cinema-4",
-      "theater_id": "robinsons-santiago",
-      "movie_id": "buy-now-die-later",
-      "showtimes": [
-        "09:15",
-        "11:40",
-        "14:05",
-        "16:30",
-        "18:55",
-        "21:20"
       ]
     },
     "sm-calamba-cinema-1": {
@@ -7027,13 +7189,12 @@ _loaded(
       "title": "Cinema 1",
       "id": "sm-san-pablo-cinema-1",
       "theater_id": "sm-san-pablo",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "buy-now-die-later",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:20",
+        "11:20",
+        "14:00",
         "16:40",
-        "19:00"
+        "19:20"
       ]
     },
     "sm-san-pablo-cinema-2": {
@@ -7042,12 +7203,11 @@ _loaded(
       "theater_id": "sm-san-pablo",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:40",
-        "11:10",
-        "13:35",
-        "16:00",
-        "18:25",
-        "20:50"
+        "10:30",
+        "12:55",
+        "15:20",
+        "17:45",
+        "20:10"
       ]
     },
     "sm-san-pablo-cinema-3": {
@@ -7056,12 +7216,11 @@ _loaded(
       "theater_id": "sm-san-pablo",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "10:50",
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
+        "10:40",
+        "13:00",
+        "15:15",
+        "17:30",
+        "19:45"
       ]
     },
     "sm-san-pablo-cinema-4": {
@@ -7070,12 +7229,10 @@ _loaded(
       "theater_id": "sm-san-pablo",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "13:50",
-        "16:15",
-        "18:40",
-        "21:00"
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:10"
       ]
     },
     "robinsons-sta-rosa-cinema-1": {
@@ -7095,13 +7252,13 @@ _loaded(
       "title": "Cinema 2",
       "id": "robinsons-sta-rosa-cinema-2",
       "theater_id": "robinsons-sta-rosa",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "11:10",
-        "13:30",
+        "10:55",
+        "13:25",
         "15:50",
-        "18:10",
-        "20:30"
+        "18:15",
+        "20:40"
       ]
     },
     "robinsons-sta-rosa-cinema-3": {
@@ -7110,11 +7267,11 @@ _loaded(
       "theater_id": "robinsons-sta-rosa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:20",
-        "12:35",
-        "14:50",
-        "17:05",
-        "19:20"
+        "10:50",
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:15"
       ]
     },
     "robinsons-sta-rosa-cinema-4": {
@@ -7130,17 +7287,30 @@ _loaded(
         "20:30"
       ]
     },
+    "sm-sta-rosa-cinema-1": {
+      "title": "Cinema 1",
+      "id": "sm-sta-rosa-cinema-1",
+      "theater_id": "sm-sta-rosa",
+      "movie_id": "haunted-mansion",
+      "showtimes": [
+        "10:30",
+        "12:50",
+        "15:10",
+        "17:30",
+        "20:00"
+      ]
+    },
     "sm-sta-rosa-cinema-2": {
       "title": "Cinema 2",
       "id": "sm-sta-rosa-cinema-2",
       "theater_id": "sm-sta-rosa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:20",
-        "13:40",
+        "11:30",
+        "13:45",
         "16:00",
-        "18:20",
-        "20:45"
+        "18:15",
+        "20:30"
       ]
     },
     "sm-sta-rosa-cinema-3": {
@@ -7149,12 +7319,11 @@ _loaded(
       "theater_id": "sm-sta-rosa",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "11:50",
-        "14:10",
-        "16:30",
-        "18:50",
-        "21:15"
+        "10:30",
+        "12:45",
+        "15:00",
+        "17:15",
+        "19:30"
       ]
     },
     "sm-sta-rosa-cinema-4": {
@@ -7163,12 +7332,11 @@ _loaded(
       "theater_id": "sm-sta-rosa",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:15",
-        "11:40",
-        "14:05",
-        "16:30",
-        "18:55",
-        "21:20"
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
       ]
     },
     "robinsons-tacloban-cinema-1": {
@@ -7177,11 +7345,11 @@ _loaded(
       "theater_id": "robinsons-tacloban",
       "movie_id": "walang-forever",
       "showtimes": [
-        "11:20",
-        "13:45",
-        "16:10",
-        "18:35",
-        "21:00"
+        "10:20",
+        "12:45",
+        "15:10",
+        "17:35",
+        "20:00"
       ]
     },
     "robinsons-tacloban-cinema-2": {
@@ -7190,11 +7358,11 @@ _loaded(
       "theater_id": "robinsons-tacloban",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "10:20",
+        "12:45",
+        "15:10",
+        "17:35",
+        "20:00"
       ]
     },
     "robinsons-tacloban-cinema-3": {
@@ -7203,11 +7371,11 @@ _loaded(
       "theater_id": "robinsons-tacloban",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "10:40",
-        "13:15",
-        "15:50",
-        "18:35",
-        "21:00"
+        "10:20",
+        "12:45",
+        "15:10",
+        "17:35",
+        "20:00"
       ]
     },
     "robinsons-tacloban-cinema-4": {
@@ -7216,12 +7384,11 @@ _loaded(
       "theater_id": "robinsons-tacloban",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "12:35",
-        "14:35",
-        "16:40",
-        "18:45",
-        "21:00"
+        "10:40",
+        "13:00",
+        "15:20",
+        "17:40",
+        "20:00"
       ]
     },
     "robinsons-tacloban-cinema-5": {
@@ -7230,11 +7397,11 @@ _loaded(
       "theater_id": "robinsons-tacloban",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "10:30",
+        "13:00",
+        "15:20",
+        "17:40",
+        "20:00"
       ]
     },
     "centrio-mall-cinema-1": {
@@ -7295,12 +7462,11 @@ _loaded(
       "theater_id": "sm-cagayan-de-oro",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "14:00",
-        "16:35",
-        "19:10",
-        "21:45"
+        "10:30",
+        "13:20",
+        "16:06",
+        "18:48",
+        "21:30"
       ]
     },
     "sm-cagayan-de-oro-cinema-2": {
@@ -7309,12 +7475,11 @@ _loaded(
       "theater_id": "sm-cagayan-de-oro",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "14:00",
-        "16:35",
-        "19:10",
-        "21:45"
+        "10:30",
+        "13:15",
+        "16:00",
+        "18:45",
+        "21:30"
       ]
     },
     "sm-cagayan-de-oro-cinema-3": {
@@ -7323,12 +7488,11 @@ _loaded(
       "theater_id": "sm-cagayan-de-oro",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "14:00",
-        "16:35",
-        "19:10",
-        "21:45"
+        "10:30",
+        "13:15",
+        "16:00",
+        "18:45",
+        "21:30"
       ]
     },
     "sm-cagayan-de-oro-cinema-4": {
@@ -7337,12 +7501,11 @@ _loaded(
       "theater_id": "sm-cagayan-de-oro",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "14:00",
-        "16:35",
-        "19:10",
-        "21:45"
+        "10:30",
+        "13:18",
+        "16:02",
+        "18:46",
+        "21:30"
       ]
     },
     "robinsons-bacolod-cinema-1": {
@@ -7351,12 +7514,11 @@ _loaded(
       "theater_id": "robinsons-bacolod",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:10",
-        "12:20",
-        "14:30",
-        "16:40",
-        "18:50",
-        "21:00"
+        "11:30",
+        "13:45",
+        "16:00",
+        "18:15",
+        "20:30"
       ]
     },
     "robinsons-bacolod-cinema-2": {
@@ -7365,11 +7527,10 @@ _loaded(
       "theater_id": "robinsons-bacolod",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:40",
-        "13:15",
-        "15:50",
-        "18:25",
-        "21:00"
+        "12:30",
+        "15:05",
+        "17:40",
+        "20:15"
       ]
     },
     "robinsons-bacolod-cinema-3": {
@@ -7378,11 +7539,11 @@ _loaded(
       "theater_id": "robinsons-bacolod",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:00",
+        "11:10",
         "13:30",
-        "16:00",
-        "18:30",
-        "21:00"
+        "15:50",
+        "18:10",
+        "20:30"
       ]
     },
     "robinsons-bacolod-cinema-4": {
@@ -7391,11 +7552,11 @@ _loaded(
       "theater_id": "robinsons-bacolod",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "12:20",
-        "14:30",
-        "16:40",
-        "18:50",
-        "21:00"
+        "11:55",
+        "14:00",
+        "16:05",
+        "18:10",
+        "20:15"
       ]
     },
     "robinsons-bacolod-cinema-5": {
@@ -7404,11 +7565,10 @@ _loaded(
       "theater_id": "robinsons-bacolod",
       "movie_id": "walang-forever",
       "showtimes": [
-        "11:20",
-        "13:45",
-        "16:10",
-        "18:35",
-        "21:00"
+        "12:45",
+        "15:10",
+        "17:35",
+        "20:00"
       ]
     },
     "robinsons-bacolod-cinema-6": {
@@ -7417,10 +7577,11 @@ _loaded(
       "theater_id": "robinsons-bacolod",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
+        "11:35",
+        "13:45",
+        "15:55",
+        "18:05",
+        "20:15"
       ]
     },
     "sm-bacolod-cinema-1": {
@@ -7429,10 +7590,10 @@ _loaded(
       "theater_id": "sm-bacolod",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
+        "11:40",
+        "14:00",
+        "16:20",
+        "18:40",
         "21:00"
       ]
     },
@@ -7442,10 +7603,10 @@ _loaded(
       "theater_id": "sm-bacolod",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:20",
-        "13:00",
-        "15:40",
-        "18:20",
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
         "21:00"
       ]
     },
@@ -7467,10 +7628,10 @@ _loaded(
       "theater_id": "sm-bacolod",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
+        "11:40",
+        "14:00",
+        "16:20",
+        "18:40",
         "21:00"
       ]
     },
@@ -7480,12 +7641,11 @@ _loaded(
       "theater_id": "robinsons-dumaguete",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:00",
-        "12:15",
-        "14:30",
-        "16:45",
-        "19:00",
-        "21:15"
+        "10:55",
+        "13:15",
+        "15:35",
+        "17:55",
+        "20:15"
       ]
     },
     "robinsons-dumaguete-cinema-2": {
@@ -7505,12 +7665,68 @@ _loaded(
       "title": "Cinema 3",
       "id": "robinsons-dumaguete-cinema-3",
       "theater_id": "robinsons-dumaguete",
+      "movie_id": "walang-forever",
+      "showtimes": [
+        "11:10",
+        "13:30",
+        "15:50",
+        "18:10",
+        "20:30"
+      ]
+    },
+    "robinsons-palawan-cinema-1": {
+      "title": "Cinema 1",
+      "id": "robinsons-palawan-cinema-1",
+      "theater_id": "robinsons-palawan",
+      "movie_id": "all-you-need-is-pag-ibig",
+      "showtimes": [
+        "09:35",
+        "11:55",
+        "14:15",
+        "16:35",
+        "18:45",
+        "21:00"
+      ]
+    },
+    "robinsons-palawan-cinema-2": {
+      "title": "Cinema 2",
+      "id": "robinsons-palawan-cinema-2",
+      "theater_id": "robinsons-palawan",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "11:20",
-        "13:45",
-        "16:10",
-        "18:35",
+        "09:55",
+        "12:10",
+        "14:20",
+        "16:35",
+        "18:45",
+        "21:00"
+      ]
+    },
+    "robinsons-palawan-cinema-3": {
+      "title": "Cinema 3",
+      "id": "robinsons-palawan-cinema-3",
+      "theater_id": "robinsons-palawan",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "09:40",
+        "11:55",
+        "14:10",
+        "16:20",
+        "18:45",
+        "21:00"
+      ]
+    },
+    "robinsons-palawan-cinema-4": {
+      "title": "Cinema 4",
+      "id": "robinsons-palawan-cinema-4",
+      "theater_id": "robinsons-palawan",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "09:35",
+        "11:55",
+        "14:15",
+        "16:30",
+        "18:45",
         "21:00"
       ]
     },
@@ -7520,12 +7736,12 @@ _loaded(
       "theater_id": "marquee-mall",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:40",
-        "13:05",
-        "15:30",
-        "17:55",
-        "20:20",
-        "22:45"
+        "10:25",
+        "12:50",
+        "15:15",
+        "17:40",
+        "20:05",
+        "22:30"
       ]
     },
     "marquee-mall-cinema-2": {
@@ -7534,12 +7750,12 @@ _loaded(
       "theater_id": "marquee-mall",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:00",
+        "10:05",
         "12:30",
-        "15:00",
-        "17:30",
-        "20:00",
-        "22:30"
+        "14:55",
+        "17:20",
+        "19:45",
+        "22:10"
       ]
     },
     "marquee-mall-cinema-3": {
@@ -7548,11 +7764,11 @@ _loaded(
       "theater_id": "marquee-mall",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "12:45",
-        "15:15",
-        "17:45",
-        "20:15",
-        "22:45"
+        "11:25",
+        "14:00",
+        "16:35",
+        "19:10",
+        "21:45"
       ]
     },
     "marquee-mall-cinema-4": {
@@ -7574,11 +7790,11 @@ _loaded(
       "theater_id": "robinsons-angeles",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:40",
-        "13:05",
-        "15:30",
-        "17:55",
-        "20:20"
+        "10:25",
+        "12:50",
+        "15:15",
+        "17:40",
+        "20:05"
       ]
     },
     "robinsons-angeles-cinema-2": {
@@ -7587,18 +7803,18 @@ _loaded(
       "theater_id": "robinsons-angeles",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:30",
-        "12:50",
-        "15:10",
-        "17:30",
-        "19:50"
+        "10:50",
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
       ]
     },
     "robinsons-angeles-cinema-3": {
       "title": "Cinema 3",
       "id": "robinsons-angeles-cinema-3",
       "theater_id": "robinsons-angeles",
-      "movie_id": "buy-now-die-later",
+      "movie_id": "walang-forever",
       "showtimes": [
         "10:20",
         "12:50",
@@ -7613,11 +7829,11 @@ _loaded(
       "theater_id": "robinsons-angeles",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "11:10",
-        "13:30",
-        "15:50",
-        "18:10",
-        "20:30"
+        "10:35",
+        "12:55",
+        "15:15",
+        "17:35",
+        "19:55"
       ]
     },
     "sm-clark-cinema-1": {
@@ -7626,7 +7842,7 @@ _loaded(
       "theater_id": "sm-clark",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:40",
+        "10:35",
         "13:15",
         "15:50",
         "18:25",
@@ -7639,10 +7855,9 @@ _loaded(
       "theater_id": "sm-clark",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
-        "11:25",
-        "14:00",
-        "16:35",
+        "11:15",
+        "13:50",
+        "16:25",
         "19:00",
         "21:30"
       ]
@@ -7666,11 +7881,11 @@ _loaded(
       "theater_id": "sm-clark",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:30",
-        "14:00",
-        "16:20",
-        "18:45",
-        "21:00"
+        "10:30",
+        "13:00",
+        "15:35",
+        "18:20",
+        "20:50"
       ]
     },
     "sm-clark-cinema-5": {
@@ -7679,10 +7894,10 @@ _loaded(
       "theater_id": "sm-clark",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
         "12:00",
-        "17:10",
-        "19:20",
+        "14:30",
+        "16:50",
+        "19:10",
         "21:30"
       ]
     },
@@ -7692,11 +7907,11 @@ _loaded(
       "theater_id": "sm-clark",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "16:50",
-        "19:10",
+        "10:30",
+        "12:40",
+        "15:00",
+        "17:10",
+        "19:20",
         "21:30"
       ]
     },
@@ -7716,20 +7931,20 @@ _loaded(
       "title": "Cinema 1",
       "id": "robinsons-starmills-cinema-1",
       "theater_id": "robinsons-starmills",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "walang-forever",
       "showtimes": [
-        "11:40",
-        "13:50",
+        "11:00",
+        "13:30",
         "16:00",
-        "18:10",
-        "20:20"
+        "18:30",
+        "21:00"
       ]
     },
     "robinsons-starmills-cinema-2": {
       "title": "Cinema 2",
       "id": "robinsons-starmills-cinema-2",
       "theater_id": "robinsons-starmills",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
         "11:20",
         "13:45",
@@ -7744,11 +7959,11 @@ _loaded(
       "theater_id": "robinsons-starmills",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:40",
-        "13:00",
-        "15:20",
-        "17:40",
-        "20:00"
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
       ]
     },
     "robinsons-starmills-cinema-4": {
@@ -7771,11 +7986,11 @@ _loaded(
       "theater_id": "robinsons-starmills",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:10",
-        "15:20",
-        "17:30",
-        "19:40"
+        "11:20",
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
       ]
     },
     "robinsons-starmills-cinema-6": {
@@ -7784,12 +7999,12 @@ _loaded(
       "theater_id": "robinsons-starmills",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:25",
-        "12:35",
-        "14:45",
-        "16:55",
-        "19:05",
-        "21:15"
+        "10:20",
+        "12:30",
+        "14:40",
+        "16:50",
+        "19:00",
+        "21:10"
       ]
     },
     "sm-pampanga-cinema-1": {
@@ -7798,10 +8013,10 @@ _loaded(
       "theater_id": "sm-pampanga",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
         "21:00"
       ]
     },
@@ -7809,13 +8024,13 @@ _loaded(
       "title": "Cinema 2",
       "id": "sm-pampanga-cinema-2",
       "theater_id": "sm-pampanga",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "walang-forever",
       "showtimes": [
-        "10:30",
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30"
+        "11:10",
+        "13:45",
+        "16:20",
+        "18:55",
+        "21:30"
       ]
     },
     "sm-pampanga-cinema-3": {
@@ -7824,7 +8039,6 @@ _loaded(
       "theater_id": "sm-pampanga",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:00",
         "11:30",
         "14:00",
         "16:30",
@@ -7838,11 +8052,11 @@ _loaded(
       "theater_id": "sm-pampanga",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:15",
-        "12:45",
-        "15:15",
-        "17:45",
-        "20:15"
+        "10:40",
+        "13:15",
+        "15:50",
+        "18:25",
+        "21:00"
       ]
     },
     "sm-pampanga-cinema-5": {
@@ -7851,11 +8065,11 @@ _loaded(
       "theater_id": "sm-pampanga",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:25",
-        "11:50",
-        "14:15",
-        "16:40",
-        "19:05",
+        "10:40",
+        "12:50",
+        "15:00",
+        "17:10",
+        "19:20",
         "21:30"
       ]
     },
@@ -7865,7 +8079,6 @@ _loaded(
       "theater_id": "sm-pampanga",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
         "11:30",
         "14:00",
         "16:30",
@@ -7879,11 +8092,10 @@ _loaded(
       "theater_id": "sm-san-fernando-downtown",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:20",
-        "11:40",
-        "14:00",
-        "16:20",
-        "18:40",
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
         "21:00"
       ]
     },
@@ -7893,11 +8105,10 @@ _loaded(
       "theater_id": "sm-san-fernando-downtown",
       "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:20",
-        "11:40",
-        "14:00",
-        "16:20",
-        "18:40",
+        "11:20",
+        "13:45",
+        "16:10",
+        "18:35",
         "21:00"
       ]
     },
@@ -7907,11 +8118,10 @@ _loaded(
       "theater_id": "sm-san-fernando-downtown",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:55",
-        "11:20",
-        "13:45",
-        "16:10",
-        "18:35",
+        "10:20",
+        "13:00",
+        "15:40",
+        "18:20",
         "21:00"
       ]
     },
@@ -7919,13 +8129,13 @@ _loaded(
       "title": "Cinema 1",
       "id": "robinsons-pangasinan-cinema-1",
       "theater_id": "robinsons-pangasinan",
-      "movie_id": "my-bebe-love-kilig-pa-more",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "11:30",
-        "13:40",
+        "10:40",
+        "13:15",
         "15:50",
-        "18:00",
-        "20:10"
+        "18:25",
+        "21:00"
       ]
     },
     "robinsons-pangasinan-cinema-2": {
@@ -7960,13 +8170,13 @@ _loaded(
       "title": "Cinema 4",
       "id": "robinsons-pangasinan-cinema-4",
       "theater_id": "robinsons-pangasinan",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "walang-forever",
       "showtimes": [
-        "11:20",
-        "13:35",
-        "15:50",
-        "18:05",
-        "20:20"
+        "11:40",
+        "14:00",
+        "16:20",
+        "18:40",
+        "21:00"
       ]
     },
     "sm-rosales-cinema-1": {
@@ -7975,11 +8185,11 @@ _loaded(
       "theater_id": "sm-rosales",
       "movie_id": "walang-forever",
       "showtimes": [
-        "10:00",
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
+        "11:20",
+        "14:00",
+        "16:20",
+        "19:00",
+        "21:40"
       ]
     },
     "sm-rosales-cinema-2": {
@@ -8014,13 +8224,13 @@ _loaded(
       "title": "Cinema 4",
       "id": "sm-rosales-cinema-4",
       "theater_id": "sm-rosales",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:30",
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30"
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
       ]
     },
     "sm-lucena-cinema-1": {
@@ -8029,12 +8239,11 @@ _loaded(
       "theater_id": "sm-lucena",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "11:45",
-        "14:05",
-        "16:25",
-        "18:45",
-        "21:00"
+        "11:00",
+        "13:20",
+        "15:40",
+        "18:00",
+        "20:15"
       ]
     },
     "sm-lucena-cinema-2": {
@@ -8043,11 +8252,10 @@ _loaded(
       "theater_id": "sm-lucena",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:00",
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
+        "12:00",
+        "14:30",
+        "17:00",
+        "19:30"
       ]
     },
     "sm-lucena-cinema-3": {
@@ -8069,12 +8277,11 @@ _loaded(
       "theater_id": "sm-lucena",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:30",
-        "11:55",
-        "14:20",
-        "16:45",
-        "19:10",
-        "21:30"
+        "10:45",
+        "13:15",
+        "15:40",
+        "18:05",
+        "20:30"
       ]
     },
     "robinsons-antipolo-cinema-1": {
@@ -8083,9 +8290,12 @@ _loaded(
       "theater_id": "robinsons-antipolo",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:10",
+        "09:30",
         "11:35",
-        "14:00"
+        "14:20",
+        "16:25",
+        "18:50",
+        "21:15"
       ]
     },
     "robinsons-antipolo-cinema-2": {
@@ -8094,12 +8304,12 @@ _loaded(
       "theater_id": "robinsons-antipolo",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
+        "09:45",
         "12:00",
         "14:15",
         "16:30",
         "18:45",
-        "21:00",
-        "21:45"
+        "21:00"
       ]
     },
     "robinsons-antipolo-cinema-3": {
@@ -8136,11 +8346,10 @@ _loaded(
       "theater_id": "sm-masinag",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:00",
-        "13:00",
-        "15:50",
-        "18:40",
-        "21:45"
+        "12:30",
+        "15:20",
+        "18:10",
+        "21:00"
       ]
     },
     "sm-masinag-cinema-2": {
@@ -8149,13 +8358,11 @@ _loaded(
       "theater_id": "sm-masinag",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
-        "10:50",
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10",
-        "22:30"
+        "11:30",
+        "14:00",
+        "16:30",
+        "19:00",
+        "21:30"
       ]
     },
     "sm-masinag-cinema-3": {
@@ -8164,12 +8371,11 @@ _loaded(
       "theater_id": "sm-masinag",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:30",
-        "11:30",
-        "14:15",
-        "17:00",
-        "19:45",
-        "22:30"
+        "10:30",
+        "13:15",
+        "16:00",
+        "18:45",
+        "21:30"
       ]
     },
     "sm-masinag-cinema-4": {
@@ -8178,12 +8384,11 @@ _loaded(
       "theater_id": "sm-masinag",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:30",
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:30",
+        "21:00"
       ]
     },
     "sta-lucia-east-grandmall-cinema-2": {
@@ -8192,11 +8397,10 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:30",
-        "21:30"
+        "13:00",
+        "15:20",
+        "17:40",
+        "20:00"
       ]
     },
     "sta-lucia-east-grandmall-cinema-3": {
@@ -8205,12 +8409,10 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "walang-forever",
       "showtimes": [
-        "09:45",
-        "12:10",
-        "14:35",
-        "17:00",
-        "19:25",
-        "21:50"
+        "13:00",
+        "15:20",
+        "17:40",
+        "20:00"
       ]
     },
     "sta-lucia-east-grandmall-cinema-4": {
@@ -8219,11 +8421,11 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "walang-forever",
       "showtimes": [
-        "11:00",
+        "11:10",
         "13:30",
         "16:00",
         "18:30",
-        "21:30"
+        "21:00"
       ]
     },
     "sta-lucia-east-grandmall-cinema-5": {
@@ -8232,11 +8434,11 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "09:45",
-        "12:10",
-        "14:35",
-        "17:00",
-        "19:25",
+        "10:10",
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:30",
         "21:50"
       ]
     },
@@ -8246,11 +8448,10 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "buy-now-die-later",
       "showtimes": [
-        "09:45",
-        "12:10",
-        "14:35",
-        "17:00",
-        "19:25",
+        "11:50",
+        "14:20",
+        "16:50",
+        "19:20",
         "21:50"
       ]
     },
@@ -8260,11 +8461,10 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "09:45",
-        "12:10",
-        "14:35",
-        "17:00",
-        "19:25",
+        "11:50",
+        "14:20",
+        "16:50",
+        "19:20",
         "21:50"
       ]
     },
@@ -8274,11 +8474,11 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:10",
-        "12:30",
-        "14:50",
-        "17:10",
-        "19:30",
+        "11:00",
+        "13:10",
+        "15:20",
+        "17:30",
+        "19:40",
         "21:50"
       ]
     },
@@ -8286,14 +8486,13 @@ _loaded(
       "title": "Cinema 9",
       "id": "sta-lucia-east-grandmall-cinema-9",
       "theater_id": "sta-lucia-east-grandmall",
-      "movie_id": "nilalang",
+      "movie_id": "haunted-mansion",
       "showtimes": [
-        "09:50",
-        "11:50",
-        "13:50",
-        "15:50",
-        "17:50",
-        "19:50",
+        "11:25",
+        "13:30",
+        "15:35",
+        "17:40",
+        "19:45",
         "21:50"
       ]
     },
@@ -8303,12 +8502,12 @@ _loaded(
       "theater_id": "sta-lucia-east-grandmall",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:10",
-        "12:30",
-        "14:50",
+        "10:40",
+        "12:50",
+        "15:00",
         "17:10",
-        "19:30",
-        "21:50"
+        "19:20",
+        "21:30"
       ]
     },
     "sm-taytay-cinema-1": {
@@ -8317,7 +8516,6 @@ _loaded(
       "theater_id": "sm-taytay",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
         "10:45",
         "13:00",
         "15:15",
@@ -8332,12 +8530,10 @@ _loaded(
       "theater_id": "sm-taytay",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "09:00",
-        "11:30",
-        "14:10",
-        "16:45",
-        "19:15",
-        "21:45"
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
       ]
     },
     "sm-taytay-cinema-3": {
@@ -8346,7 +8542,6 @@ _loaded(
       "theater_id": "sm-taytay",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:45",
         "11:15",
         "13:45",
         "16:15",
@@ -8358,11 +8553,11 @@ _loaded(
       "title": "Cinema 1",
       "id": "robinsons-gensan-cinema-1",
       "theater_id": "robinsons-gensan",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "10:30",
-        "12:50",
-        "15:05",
+        "10:20",
+        "12:45",
+        "15:10",
         "17:30",
         "20:00"
       ]
@@ -8386,9 +8581,9 @@ _loaded(
       "theater_id": "robinsons-gensan",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "10:20",
-        "12:45",
-        "15:10",
+        "10:30",
+        "12:50",
+        "15:05",
         "17:30",
         "20:00"
       ]
@@ -8399,25 +8594,24 @@ _loaded(
       "theater_id": "sm-general-santos",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "08:00",
-        "10:30",
-        "13:10",
-        "15:50",
-        "18:30",
-        "21:10"
+        "10:20",
+        "13:00",
+        "15:40",
+        "18:20",
+        "21:00"
       ]
     },
     "sm-general-santos-cinema-2": {
       "title": "Cinema 2",
       "id": "sm-general-santos-cinema-2",
       "theater_id": "sm-general-santos",
-      "movie_id": "beauty-and-the-bestie",
+      "movie_id": "walang-forever",
       "showtimes": [
-        "09:00",
-        "11:40",
-        "14:20",
-        "17:00",
-        "19:40"
+        "10:20",
+        "13:00",
+        "15:40",
+        "18:20",
+        "21:00"
       ]
     },
     "sm-general-santos-cinema-3": {
@@ -8426,10 +8620,9 @@ _loaded(
       "theater_id": "sm-general-santos",
       "movie_id": "all-you-need-is-pag-ibig",
       "showtimes": [
-        "08:00",
-        "10:35",
-        "13:10",
-        "15:45",
+        "10:20",
+        "13:00",
+        "15:40",
         "18:20",
         "21:00"
       ]
@@ -8440,7 +8633,6 @@ _loaded(
       "theater_id": "sm-general-santos",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "08:30",
         "11:00",
         "13:30",
         "16:00",
@@ -8465,13 +8657,12 @@ _loaded(
       "title": "Cinema 2",
       "id": "kcc-mall-of-gensan-cinema-2",
       "theater_id": "kcc-mall-of-gensan",
-      "movie_id": "honor-thy-father",
+      "movie_id": "beauty-and-the-bestie",
       "showtimes": [
-        "11:15",
-        "13:45",
-        "16:10",
-        "18:35",
-        "21:00"
+        "12:15",
+        "14:30",
+        "16:45",
+        "19:00"
       ]
     },
     "kcc-mall-of-gensan-cinema-3": {
@@ -8717,14 +8908,17 @@ _loaded(
       "theater_id": "sm-olongapo",
       "movie_id": "my-bebe-love-kilig-pa-more",
       "showtimes": [
-        "10:20",
-        "12:40",
-        "15:00",
-        "17:20",
-        "19:40",
-        "22:00"
+        "10:10",
+        "12:25",
+        "14:45",
+        "17:00",
+        "19:15",
+        "21:30"
       ]
     }
+  },
+  "api_data": {
+    "updated_at": "2015-12-28T09:06:59.122Z"
   }
 }
 )
