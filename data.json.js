@@ -1301,7 +1301,7 @@ _loaded(
       "imdb_id": "tt2452042",
       "themoviedb_id": "227973",
       "overview": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest back home.",
-      "release_date": "2015-12-24",
+      "release_date": "2015-11-06",
       "backdrop": {
         "sm": "https://image.tmdb.org/t/p/w300/gokfO8RVKhfn8jNMyUBaaMgLjP8.jpg",
         "md": "https://image.tmdb.org/t/p/w780/gokfO8RVKhfn8jNMyUBaaMgLjP8.jpg",
@@ -2497,7 +2497,7 @@ _loaded(
       "theater_id": "greenbelt-3",
       "movie_id": "walang-forever",
       "showtimes": [
-        "14:54",
+        "14:45",
         "17:20",
         "19:55",
         "22:30"
@@ -3119,9 +3119,9 @@ _loaded(
       "theater_id": "newport-resorts-world-manila",
       "movie_id": "beauty-and-the-bestie",
       "showtimes": [
+        "00:30",
         "10:00",
         "12:25",
-        "12:30",
         "14:50",
         "17:15",
         "19:40",
@@ -5142,84 +5142,6 @@ _loaded(
         "20:00"
       ]
     },
-    "sm-bf-paranaque-cinema-1": {
-      "title": "Cinema 1",
-      "id": "sm-bf-paranaque-cinema-1",
-      "theater_id": "sm-bf-paranaque",
-      "movie_id": "my-bebe-love-kilig-pa-more",
-      "showtimes": [
-        "11:00",
-        "13:30",
-        "16:10",
-        "18:50",
-        "21:30"
-      ]
-    },
-    "sm-bf-paranaque-cinema-2": {
-      "title": "Cinema 2",
-      "id": "sm-bf-paranaque-cinema-2",
-      "theater_id": "sm-bf-paranaque",
-      "movie_id": "beauty-and-the-bestie",
-      "showtimes": [
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30",
-        "22:00"
-      ]
-    },
-    "sm-bf-paranaque-director-s-club-1": {
-      "title": "Director's Club 1",
-      "id": "sm-bf-paranaque-director-s-club-1",
-      "theater_id": "sm-bf-paranaque",
-      "movie_id": "all-you-need-is-pag-ibig",
-      "showtimes": [
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
-      ]
-    },
-    "sm-bf-paranaque-director-s-club-2": {
-      "title": "Director's Club 2",
-      "id": "sm-bf-paranaque-director-s-club-2",
-      "theater_id": "sm-bf-paranaque",
-      "movie_id": "beauty-and-the-bestie",
-      "showtimes": [
-        "11:30",
-        "14:00",
-        "16:30",
-        "19:00",
-        "21:30"
-      ]
-    },
-    "sm-bf-paranaque-director-s-club-3": {
-      "title": "Director's Club 3",
-      "id": "sm-bf-paranaque-director-s-club-3",
-      "theater_id": "sm-bf-paranaque",
-      "movie_id": "walang-forever",
-      "showtimes": [
-        "11:45",
-        "14:15",
-        "16:45",
-        "19:15",
-        "21:45"
-      ]
-    },
-    "sm-bf-paranaque-director-s-club-4": {
-      "title": "Director's Club 4",
-      "id": "sm-bf-paranaque-director-s-club-4",
-      "theater_id": "sm-bf-paranaque",
-      "movie_id": "haunted-mansion",
-      "showtimes": [
-        "12:40",
-        "15:00",
-        "17:20",
-        "19:40",
-        "22:00"
-      ]
-    },
     "sm-bicutan-cinema-1": {
       "title": "Cinema 1",
       "id": "sm-bicutan-cinema-1",
@@ -7126,6 +7048,18 @@ _loaded(
         "21:30"
       ]
     },
+    "sm-megamall-director-s-club": {
+      "title": "Director's Club",
+      "id": "sm-megamall-director-s-club",
+      "theater_id": "sm-megamall",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "13:30",
+        "16:25",
+        "19:20",
+        "22:15"
+      ]
+    },
     "sm-megamall-imax-theater": {
       "title": "IMAX Theater",
       "id": "sm-megamall-imax-theater",
@@ -7509,6 +7443,54 @@ _loaded(
         "16:00",
         "18:30",
         "21:00"
+      ]
+    },
+    "sm-rosales-cinema-1": {
+      "title": "Cinema 1",
+      "id": "sm-rosales-cinema-1",
+      "theater_id": "sm-rosales",
+      "movie_id": "walang-forever",
+      "showtimes": [
+        "11:45",
+        "14:30",
+        "17:15",
+        "20:00"
+      ]
+    },
+    "sm-rosales-cinema-2": {
+      "title": "Cinema 2",
+      "id": "sm-rosales-cinema-2",
+      "theater_id": "sm-rosales",
+      "movie_id": "my-bebe-love-kilig-pa-more",
+      "showtimes": [
+        "12:15",
+        "14:50",
+        "17:25",
+        "20:00"
+      ]
+    },
+    "sm-rosales-cinema-3": {
+      "title": "Cinema 3",
+      "id": "sm-rosales-cinema-3",
+      "theater_id": "sm-rosales",
+      "movie_id": "beauty-and-the-bestie",
+      "showtimes": [
+        "12:30",
+        "15:00",
+        "20:00"
+      ]
+    },
+    "sm-rosales-cinema-4": {
+      "title": "Cinema 4",
+      "id": "sm-rosales-cinema-4",
+      "theater_id": "sm-rosales",
+      "movie_id": "haunted-mansion",
+      "showtimes": [
+        "10:40",
+        "13:00",
+        "15:20",
+        "17:40",
+        "20:00"
       ]
     },
     "sm-rosario-cinema-1": {
@@ -8067,53 +8049,6 @@ _loaded(
         "21:30"
       ]
     },
-    "sm-tarlac-cinema-1": {
-      "title": "Cinema 1",
-      "id": "sm-tarlac-cinema-1",
-      "theater_id": "sm-tarlac",
-      "movie_id": "beauty-and-the-bestie",
-      "showtimes": [
-        "12:45",
-        "15:30",
-        "18:15",
-        "21:00"
-      ]
-    },
-    "sm-tarlac-cinema-2": {
-      "title": "Cinema 2",
-      "id": "sm-tarlac-cinema-2",
-      "theater_id": "sm-tarlac",
-      "movie_id": "haunted-mansion",
-      "showtimes": [
-        "12:45",
-        "15:15",
-        "18:00",
-        "20:30"
-      ]
-    },
-    "sm-tarlac-cinema-3": {
-      "title": "Cinema 3",
-      "id": "sm-tarlac-cinema-3",
-      "theater_id": "sm-tarlac",
-      "movie_id": "all-you-need-is-pag-ibig",
-      "showtimes": [
-        "12:45",
-        "15:30",
-        "18:15",
-        "21:00"
-      ]
-    },
-    "sm-tarlac-cinema-4": {
-      "title": "Cinema 4",
-      "id": "sm-tarlac-cinema-4",
-      "theater_id": "sm-tarlac",
-      "movie_id": "beauty-and-the-bestie",
-      "showtimes": [
-        "12:45",
-        "17:45",
-        "20:00"
-      ]
-    },
     "sm-taytay-cinema-1": {
       "title": "Cinema 1",
       "id": "sm-taytay-cinema-1",
@@ -8525,7 +8460,7 @@ _loaded(
     }
   },
   "api_data": {
-    "updated_at": "2016-01-05T06:22:02.841Z"
+    "updated_at": "2016-01-05T23:26:20.405Z"
   }
 }
 )
